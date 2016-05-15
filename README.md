@@ -1,0 +1,2 @@
+# stringtable
+resource
