@@ -4858,14 +4858,14 @@
 			<Portuguese>Segurança</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Veh_UI_RetrievalP">
-			<Original>Retrieval Price:</Original>
+			<Original>recuperación de Dinero:</Original>
 			<German>Einstellpreis:</German>
 			<French>Prix de sortie:</French>
 			<Italian>Costo di ritiro:</Italian>
 			<Portuguese>Preço para Recuperar:</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Veh_UI_SellP">
-			<Original>Sell Price:</Original>
+			<Original>Precio de venta:</Original>
 			<German>Verkaufspreis:</German>
 			<French>Prix de vente</French>
 			<Italian>Costo di vendita:</Italian>
@@ -4879,133 +4879,133 @@
 			<Portuguese>Cor:</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Veh_NotAllowed">
-			<Original>You are not allowed to use this shop!</Original>
+			<Original>No se le permite utilizar esta tienda!</Original>
 			<German>Du bist nicht befugt, diesen Shop zu benutzen!</German>
 			<French>Vous n'êtes pas autorisé à utiliser cette boutique!</French>
 			<Italian>Non sei autorizzato ad usare questo negozio!</Italian>
 			<Portuguese>Você não está autorizado a utlizar essa loja!</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Virt_Nothing">
-			<Original>You need to select an item to buy.</Original>
+			<Original>Es necesario seleccionar el elemento que desea comprar.</Original>
 			<German>Du musst einen Gegenstand auswählen, um ihn zu kaufen.</German>
 			<French>Vous devez selectionner un objet pour l'acheter.</French>
 			<Italian>Seleziona un oggetto per poterlo comprare.</Italian>
 			<Portuguese>Você precisa selecionar um item para comprar.</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Virt_NoNum">
-			<Original>You didn't enter an actual number</Original>
+			<Original>No ha introducido un número real</Original>
 			<German>Du hast keine echte Zahl eingegeben</German>
 			<French>Vous n'avez pas saisi un nombre réel</French>
 			<Italian>Non hai inserito correttamente un numero</Italian>
 			<Portuguese>Você não digitou um número válido.</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Virt_NotEnough">
-			<Original>You don't have that many items to sell!</Original>
+			<Original>Usted no tiene que muchos artículos para vender!</Original>
 			<German>Du hast nicht so viele Gegenstände zum Verkaufen!</German>
 			<French>Vous n'avez pas autant d'articles à vendre!</French>
 			<Italian>Non hai tutti quegli oggetti da vendere!</Italian>
 			<Portuguese>Você não tem todos esse items para vender</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Virt_Gang_FundsMSG">
-			<Original>The gang has enough funds to pay for this, would you like to pay with the gangs funds or your own?</Original>
+			<Original>La banda tiene suficientes fondos para pagar por esto, le gustaría pagar con los fondos de bandas o en el propio?</Original>
 			<German>Die Gang hat genügend Geld, um dafür zu zahlen. Willst du mit dem Geld der Gang oder deinem eigenen bezahlen?</German>
 			<French>Le gang a suffisamment de fonds pour payer pour cela, voulez-vous payer avec les fonds de gangs ou les vôtres?</French>
 			<Italian>La Gang ha fondi a sufficienza per pagare questo, vuoi usare i fondi della Gang o i tuoi personali?</Italian>
 			<Portuguese>A Gangue tem dinheiro suficiente para pagar por isso, você gostaria de usar o dinheiro da Gangue?</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Virt_Gang_Funds">
-			<Original>Gang Funds:</Original>
+			<Original>Fondos de pandillas:</Original>
 			<German>Geld der Gang:</German>
 			<French>Fonds du gang:</French>
 			<Italian>Fondi Gang:</Italian>
 			<Portuguese>Recurso da Gangue:</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Virt_YourFunds">
-			<Original>Your Cash:</Original>
+			<Original>su efectivo:</Original>
 			<German>Bargeld:</German>
 			<French>Votre argent:</French>
 			<Italian>Tuoi Fondi:</Italian>
 			<Portuguese>Seu Dinheiro:</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Virt_YourorGang">
-			<Original>Pay with cash or gang funds</Original>
+			<Original>Pagar con fondos en efectivo o de bandas</Original>
 			<German>Mit Bargeld oder Geld der Gang bezahlen</German>
 			<French>Payez avec votre argent ou avec les fonds du gangs</French>
 			<Italian>Paga con i tuoi contanti o i fondi della Gang</Italian>
 			<Portuguese>Pagar a Sua conta ou da Gangue</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Virt_UI_GangFunds">
-			<Original>Gang Funds</Original>
+			<Original>Fondos de pandillas</Original>
 			<German>Geld der Gang</German>
 			<French>Fonds du gang:</French>
 			<Italian>Fondi Gang</Italian>
 			<Portuguese>Dinheiro da Gangue</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Virt_UI_YourCash">
-			<Original>Your Cash</Original>
+			<Original>Su efectivo</Original>
 			<German>Bargeld</German>
 			<French>Votre argent</French>
 			<Italian>Tuoi Fondi</Italian>
 			<Portuguese>Seu Dinheiro</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Virt_BoughtGang">
-			<Original>You bought %1 %2 for $%3 with the gangs funds</Original>
+			<Original>Tú compraste %1 %2 for $%3 with the gangs funds</Original>
 			<German>Du kaufst %1 %2 für $%3 mit dem Geld der Gang</German>
 			<French>Vous avez acheté %1 %2 pour $%3 avec les fonds gangs</French>
 			<Italian>Hai comprato %1 %2 al costo di €%3 con i fondi della Gang</Italian>
 			<Portuguese>Você comprou %1 %2 por R$%3 com o dinheiro de gague</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Virt_BoughtItem">
-			<Original>You bought %1 %2 for $%3</Original>
+			<Original>Tú compraste %1 %2 for $%3</Original>
 			<German>Du kaufst %1 %2 für $%3</German>
 			<French>Vous avez acheté %1 %2 pour $%3</French>
 			<Italian>Hai comprato %1 %2 al costo di €%3</Italian>
 			<Portuguese>Voce comprou %1 %2 por R$%3</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Virt_SellItem">
-			<Original>You sold %1 %2 for $%3</Original>
+			<Original>usted vendió %1 %2 for $%3</Original>
 			<German>Du verkaufst %1 %2 für $%3</German>
 			<French>Vous avez vendu %1 %2 pour $%3</French>
 			<Italian>Hai venduto %1 %2 al prezzo di €%3</Italian>
 			<Portuguese>Você vendeu %1 %2 por R$%3</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Weapon_NoSelect">
-			<Original>You need to select an item to buy/sell.</Original>
+			<Original>Es necesario seleccionar un elemento para compra/Venta.</Original>
 			<German>Du musst einen Gegenstand auswählen, um ihn zu kaufen / zu verkaufen.</German>
 			<French>Vous devez sélectionner un élément pour acheter/vendre</French>
 			<Italian>Devi selezionare un oggetto per comprare/vendere.</Italian>
 			<Portuguese>Selecione um item para comprar ou vender.</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Weapon_Sold">
-			<Original>You sold a %1 for &lt;t color='#8cff9b'&gt;$%2&lt;/t&gt;</Original>
+			<Original>Usted vendió una %1 for &lt;t color='#8cff9b'&gt;$%2&lt;/t&gt;</Original>
 			<German>Du hast eine %1 für &lt;t color='#8cff9b'&gt;$%2&lt;/t&gt; verkauft</German>
 			<French>Vous avez vendu un %1 pour &lt;t color='#8cff9b'&gt;$%2&lt;/t&gt;</French>
 			<Italian>Hai venduto un %1 al prezzo di &lt;t color='#8cff9b'&gt;$%2&lt;/t&gt;</Italian>
 			<Portuguese>Você vendeu %1 por &lt;t color='#8cff9b'&gt;R$%2&lt;/t&gt;</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Weapon_BoughtGang">
-			<Original>You bought a %1 for &lt;t color='#8cff9b'&gt;$%2&lt;/t&gt; with the gangs funds.</Original>
+			<Original>Usted compró una %1 for &lt;t color='#8cff9b'&gt;$%2&lt;/t&gt; con los fondos de bandas.</Original>
 			<German>Du hast eine %1 für &lt;t color='#8cff9b'&gt;$%2&lt;/t&gt; mit dem Geld der Gang gekauft.</German>
 			<French>Vous avez acheté un %1 pour &lt;t color='#8cff9b'&gt;$%2&lt;/t&gt; avec les fonds du gang.</French>
 			<Italian>Hai comprato un %1 al costo di &lt;t color='#8cff9b'&gt;$%2&lt;/t&gt; con i fondi della Gang.</Italian>
 			<Portuguese>Você comprou %1 por &lt;t color='#8cff9b'&gt;R$%2&lt;/t&gt; com o dinheiro da gangue.</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Weapon_BoughtItem">
-			<Original>You bought a %1 for &lt;t color='#8cff9b'&gt;$%2&lt;/t&gt;</Original>
+			<Original>Usted compró una %1 for &lt;t color='#8cff9b'&gt;$%2&lt;/t&gt;</Original>
 			<German>Du hast eine %1 für &lt;t color='#8cff9b'&gt;$%2&lt;/t&gt; gekauft</German>
 			<French>Vous avez acheté un %1 pour &lt;t color='#8cff9b'&gt;$%2&lt;/t&gt;</French>
 			<Italian>Hai comprato un %1 al costo di &lt;t color='#8cff9b'&gt;$%2&lt;/t&gt;</Italian>
 			<Portuguese>Você comprou %1 por &lt;t color='#8cff9b'&gt;R$%2&lt;/t&gt;</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Weapon_ShopInv">
-			<Original>Shop Inventory</Original>
+			<Original>inventario de tienda</Original>
 			<German>Ladeninventar</German>
 			<French>Inventaire de la boutique</French>
 			<Italian>Inventario Negozio</Italian>
 			<Portuguese>Loja</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Weapon_YourInv">
-			<Original>Your Inventory</Original>
+			<Original>Su inventario</Original>
 			<German>Dein Inventar</German>
 			<French>Votre inventaire</French>
 			<Italian>Inventario Personale</Italian>
@@ -5014,21 +5014,21 @@
 	</Package>
 	<Package name="FSM_Strings">
 		<Key ID="STR_FSM_Paycheck">
-			<Original>You will receive your next paycheck in %1 minutes</Original>
+			<Original>Recibirá su próximo cheque de pago en %1 minutes</Original>
 			<German>Du erhältst deinen nächsten Gehaltsscheck in %1 Minuten</German>
 			<French>Vous recevrez votre prochain chèque de paie dans %1 minutes</French>
 			<Italian>Riceverai il tuo prossimo stipendio in %1 minuti</Italian>		
 			<Portuguese>Você vai receber seu próximo pagamento em %1 minutos</Portuguese>
 		</Key>
 		<Key ID="STR_FSM_MissedPay">
-			<Original>You have missed a paycheck because you were dead.</Original>
+			<Original>No ha contestado a un cheque de pago, ya que estabas muerto.</Original>
 			<German>Du erhältst kein Gehaltsscheck, da du gestorben bist.</German>
 			<French>Vous avez manqué un chèque de paie parce que vous étiez mort.</French>
 			<Italian>Hai perso uno stipendio perche eri morto.</Italian>
 			<Portuguese>Você não recebeu seu pagamento pois estava morto.</Portuguese>
 		</Key>
 		<Key ID="STR_FSM_ReceivedPay">
-			<Original>You have received a paycheck of $%1</Original>
+			<Original>Ha recibido un cheque de pago de $%1</Original>
 			<German>Du hast deinen Gehaltscheck in Höhe von $%1 erhalten</German>
 			<French>Vous avez reçu un salaire de $%1</French>
 			<Italian>Hai ricevuto uno stipendio di €%1</Italian>
@@ -5037,14 +5037,14 @@
 	</Package>
 	<Package name="Player_Actions">
 		<Key ID="STR_pAct_DropFishingNet">
-			<Original>Drop Fishing Net</Original>
+			<Original>Caída de la red de pesca</Original>
 			<German>Fischernetz auswerfen</German>
 			<French>Drop Fishing Net</French>
 			<Italian>Drop Fishing Net</Italian>		
 			<Portuguese>Jogar Rede de Pesca</Portuguese>
 		</Key>
 		<Key ID="STR_pAct_RobPerson">
-			<Original>Rob Person</Original>
+			<Original>Rob Pearson</Original>
 			<German>Person ausrauben</German>
 			<French>Rob Person</French>
 			<Italian>Rob Person</Italian>		
@@ -5053,178 +5053,178 @@
 	</Package>
 <Package name="Crimes">
 		<Key ID="STR_Crime_187V">
-			<Original>Vehicular Manslaughter</Original>
+			<Original>Homicidio de vehículos</Original>
 			<German>Vehicular Manslaughter</German>
 			<French>Vehicular Manslaughter</French>
 			<Italian>Vehicular Manslaughter</Italian>		
 			<Portuguese>Vehicular Manslaughter</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_187">
-			<Original>Manslaughter</Original>
+			<Original>Homicidio involuntario</Original>
 		</Key>
 		
 		
 		<Key ID="STR_Crime_901">
-			<Original>Escaping Jail</Original>
+			<Original>Escapar de la cárcel</Original>
 			<German>Escaping Jail</German>
 			<French>Escaping Jail</French>
 			<Italian>Escaping Jail</Italian>		
 			<Portuguese>Escaping Jail</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_215">
-			<Original>Attempted Auto Theft</Original>
+			<Original>Intento de robo de auto</Original>
 			<German>Attempted Auto Theft</German>
 			<French>Attempted Auto Theft</French>
 			<Italian>Attempted Auto Theft</Italian>		
 			<Portuguese>Attempted Auto Theft</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_213">
-			<Original>Use of illegal explosives</Original>
+			<Original>El uso de explosivos ilegales</Original>
 			<German>Use of illegal explosives</German>
 			<French>Use of illegal explosives</French>
 			<Italian>Use of illegal explosives</Italian>		
 			<Portuguese>Use of illegal explosives</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_211">
-			<Original>Robbery</Original>
+			<Original>Robo</Original>
 			<German>Robbery</German>
 			<French>Robbery</French>
 			<Italian>Robbery</Italian>		
 			<Portuguese>Robbery</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_207">
-			<Original>Kidnapping</Original>
+			<Original>Secuestro</Original>
 			<German>Kidnapping</German>
 			<French>Kidnapping</French>
 			<Italian>Kidnapping</Italian>		
 			<Portuguese>Kidnapping</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_207A">
-			<Original>Attempted Kidnapping</Original>
+			<Original>intento de Secuestro</Original>
 			<German>Attempted Kidnapping</German>
 			<French>Attempted Kidnapping</French>
 			<Italian>Attempted Kidnapping</Italian>		
 			<Portuguese>Attempted Kidnapping</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_390">
-			<Original>Public Intoxication</Original>
+			<Original>Intoxicación pública</Original>
 			<German>Public Intoxication</German>
 			<French>Public Intoxication</French>
 			<Italian>Public Intoxication</Italian>		
 			<Portuguese>Public Intoxication</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_487">
-			<Original>Grand Theft</Original>
+			<Original>Grande robo</Original>
 			<German>Grand Theft</German>
 			<French>Grand Theft</French>
 			<Italian>Grand Theft</Italian>		
 			<Portuguese>Grand Theft</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_488">
-			<Original>Petty Theft</Original>
+			<Original>Pequeño robo</Original>
 			<German>Petty Theft</German>
 			<French>Petty Theft</French>
 			<Italian>Petty Theft</Italian>		
 			<Portuguese>Petty Theft</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_480">
-			<Original>Hit and run</Original>
+			<Original>Pega y corre</Original>
 			<German>Hit and run</German>
 			<French>Hit and run</French>
 			<Italian>Hit and run</Italian>		
 			<Portuguese>Hit and run</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_236">
-			<Original>Human Trafficking</Original>
+			<Original>Trata de personas</Original>
 		</Key>
 		<Key ID="STR_Crime_1018">
-			<Original>Use of Firearms in city limits</Original>
+			<Original>El uso de armas de fuego en los límites de la ciudad</Original>
 		</Key>
 		<Key ID="STR_Crime_5447">
-			<Original>Impersonating a trooper.</Original>
+			<Original>Hacerse pasar por un soldado</Original>
 		</Key>
 		<Key ID="STR_Crime_5489">
-			<Original>Possession of MST Equipment</Original>
+			<Original>La posesión de Equipo MST</Original>
 		</Key>
 		<Key ID="STR_Crime_1412">
-			<Original>Possession of an illegal weapon</Original>
+			<Original>La posesión de un arma ilegal</Original>
 		</Key>
 		<Key ID="STR_Crime_1337">
-			<Original>Weapon Trafficking</Original>
+			<Original>Tráfico de armas</Original>
 		</Key>
 		<Key ID="STR_Crime_13371">
-			<Original>Heavy Weapon Trafficking</Original>
+			<Original>Trata Heavy Weapon</Original>
 		</Key>
 		<Key ID="STR_Crime_4389">
-			<Original>Insurance fraud</Original>
+			<Original>Fraude de seguro</Original>
 		</Key>
 		<Key ID="STR_Crime_5894">
-		<Original>Speeding</Original>
+		<Original>Exceso de velocidad</Original>
 		</Key>
 		<Key ID="STR_Crime_4532">
-		<Original>Verbal threats</Original>
+		<Original>amenazas verbales</Original>
 		</Key>
 		<Key ID="STR_Crime_5217">
-		<Original>Disobeying a trooper</Original>
+		<Original>Desobedecer a un policía</Original>
 		</Key>
 		<Key ID="STR_Crime_481">
-			<Original>Drug Possession</Original>
+			<Original>Posesión de drogas</Original>
 			<German>Drug Possession</German>
 			<French>Drug Possession</French>
 			<Italian>Drug Possession</Italian>		
 			<Portuguese>Drug Possession</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_482">
-			<Original>Intent to distribute</Original>
+			<Original>La intención de distribuir</Original>
 			<German>Intent to distribute</German>
 			<French>Intent to distribute</French>
 			<Italian>Intent to distribute</Italian>		
 			<Portuguese>Intent to distribute</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_483">
-			<Original>Drug Trafficking</Original>
+			<Original>El tráfico de drogas</Original>
 			<German>Drug Trafficking</German>
 			<French>Drug Trafficking</French>
 			<Italian>Drug Trafficking</Italian>		
 			<Portuguese>Drug Trafficking</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_459">
-			<Original>Armed Robbery</Original>
+			<Original>Robo a mano armada</Original>
 			<German>Burglary</German>
 			<French>Burglary</French>
 			<Italian>Burglary</Italian>		
 			<Portuguese>Burglary</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_666">
-			<Original>Tax Evasion</Original>
+			<Original>Evasión de impuestos</Original>
 			<German>Tax Evasion</German>
 			<French>Tax Evasion</French>
 			<Italian>Tax Evasion</Italian>		
 			<Portuguese>Tax Evasion</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_667">
-			<Original>Terrorism</Original>
+			<Original>Terrorismo</Original>
 			<German>Terrorism</German>
 			<French>Terrorism</French>
 			<Italian>Terrorism</Italian>		
 			<Portuguese>Terrorism</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_668">
-			<Original>Unlicensed Hunting</Original>
+			<Original>La caza sin licencia</Original>
 			<German>Unlicensed Hunting</German>
 			<French>Unlicensed Hunting</French>
 			<Italian>Unlicensed Hunting</Italian>		
 			<Portuguese>Unlicensed Hunting</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_919">
-			<Original>Organ Theft</Original>
+			<Original>El robo de órganos</Original>
 			<German>Organ Theft</German>
 			<French>Organ Theft</French>
 			<Italian>Organ Theft</Italian>		
 			<Portuguese>Organ Theft</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_919A">
-			<Original>Attempted Organ Theft</Original>
+			<Original>Intento de robo de órganos</Original>
 			<German>Attempted Organ Theft</German>
 			<French>Attempted Organ Theft</French>
 			<Italian>Attempted Organ Theft</Italian>		
@@ -5232,80 +5232,80 @@
 		</Key>
 		
 		<Key ID="STR_Crime_1">
-			<Original>Driving w/o Lights or Blinkers</Original>
+			<Original>Conducir w / o luces o Blinkers</Original>
 			<German>Driving without Lights</German>
 			<French>Driving without Lights</French>
 			<Italian>Driving without Lights</Italian>		
 			<Portuguese>Driving without Lights</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_2">
-			<Original>Driving without License</Original>
+			<Original>Conducir sin licencia</Original>
 			<German>Driving without License</German>
 			<French>Driving without License</French>
 			<Italian>Driving without License</Italian>		
 			<Portuguese>Driving without License</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_3">
-			<Original>Driving over the Speed Limit</Original>
+			<Original>Conducir por encima del límite de velocidad</Original>
 			<German>Driving over the Speed</German>
 			<French>Driving over the Speed</French>
 			<Italian>Driving over the Speed</Italian>		
 			<Portuguese>Driving over the Speed</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_4">
-			<Original>Reckless Driving</Original>
+			<Original>Conducción temeraria</Original>
 			<German>Reckless Driving</German>
 			<French>Reckless Driving</French>
 			<Italian>Reckless Driving</Italian>		
 			<Portuguese>Reckless Driving</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_5">
-			<Original>Driving Stolen Vehicle</Original>
+			<Original>Conducción de vehículos robados</Original>
 			<German>Driving Stolen Vehicle</German>
 			<French>Driving Stolen Vehicle</French>
 			<Italian>Driving Stolen Vehicle</Italian>		
 			<Portuguese>Driving Stolen Vehicle</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_6">
-			<Original>Hit and Run</Original>
+			<Original>Pega y corre</Original>
 			<German>Hit and Run</German>
 			<French>Hit and Run</French>
 			<Italian>Hit and Run</Italian>		
 			<Portuguese>Hit and Run</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_7">
-			<Original>Attempted Murder</Original>
+			<Original>Tentativa de asesinato</Original>
 			<German>Attempted Murder</German>
 			<French>Attempted Murder</French>
 			<Italian>Attempted Murder</Italian>		
 			<Portuguese>Attempted Murder</Portuguese>
 		</Key>
 		<Key ID="STR_Crime_8">
-			<Original>Resisting/Evading Arrest</Original>
+			<Original>Resistiendo / Detención Evadir</Original>
 		</Key>
 		<Key ID="STR_Crime_9">
-			<Original>Driving an Illegal Vehicle</Original>
+			<Original>Conducir un vehículo ilegal</Original>
 		</Key>
 		<Key ID="STR_Crime_10">
-			<Original>Firearms w/o License</Original>
+			<Original>Las armas de fuego w / o licencia</Original>
 		</Key>
 		<Key ID="STR_Crime_11">
-			<Original>Wielding Firearms in city</Original>
+			<Original>Las armas de fuego que manejan en la ciudad</Original>
 		</Key>
 		<Key ID="STR_Crime_12">
-			<Original>Noise Pollution</Original>
+			<Original>La contaminación acústica</Original>
 		</Key>
 		<Key ID="STR_Crime_13">
-			<Original>Vehicle Theft</Original>
+			<Original>robo de Vehículos</Original>
 		</Key>
 		<Key ID="STR_Crime_13A">
-			<Original>Attempted Vehicle Theft</Original>
+			<Original>Intento de Robo de Vehículos</Original>
 		</Key>
 		<Key ID="STR_Crime_14">
-			<Original>Terroristic Actions</Original>
+			<Original>Acciones terroristas</Original>
 		</Key>
 		<Key ID="STR_Crime_14A">
-			<Original>Terroristic Threats</Original>
+			<Original>Las amenazas terroristas</Original>
 		</Key>
 	</Package>
 	<Package name="Smartphone">
@@ -5316,19 +5316,19 @@
 			<Original>Smartphone Menu</Original>
 		</Key>
 		<Key ID="STR_SMARTPHONE_PLAYERLISTTITLE">
-			<Original>Player List</Original>
+			<Original>Lista jugadores</Original>
 		</Key>
 		<Key ID="STR_SMARTPHONE_MESSAGETITLE">
-			<Original>Emergency Calls!</Original>
+			<Original>Llamar Emergency!</Original>
 		</Key>
 		<Key ID="STR_SMARTPHONE_RANDOMTITLE">
 			<Original>Select a Message</Original>
 		</Key>
 		<Key ID="STR_Global_Close">
-			<Original>Close</Original>
+			<Original>Cerra</Original>
 		</Key>
 		<Key ID="STR_SMARTPHONE_SCHREIBEN">
-			<Original>Compose</Original>
+			<Original>Componer</Original>
 		</Key>
 		<Key ID="STR_SMARTPHONE_NOTRUF">
 			<Original>Emergency</Original>
