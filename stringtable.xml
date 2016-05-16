@@ -4150,14 +4150,14 @@
 			<Portuguese>Médicos Online: %1</Portuguese>
 		</Key>
 		<Key ID="STR_Medic_Near">
-			<Original>Closest Medic: %1</Original>
+			<Original>más cercano Medic: %1</Original>
 			<German>Sanitäter in der Nähe: %1</German>
 			<French>Medics à proximité: %1</French>
 			<Italian>Medici Vicini: %1</Italian>
 			<Portuguese>Médicos por perto: %1</Portuguese>
 		</Key>
 		<Key ID="STR_Medic_Request">
-			<Original>%1 is requesting EMS Revive.</Original>
+			<Original>%1 está solicitando MEDICO Revive.</Original>
 			<German>%1 benötigt medizinische Hilfe</German>
 			<French>%1 demande de l'aide d'un EMS.</French>
 			<Italian>%1 sta richiedendo l'intervento medico.</Italian>
@@ -4171,49 +4171,49 @@
 			<Portuguese>Respawn Disponível em: %1</Portuguese>
 		</Key>
 		<Key ID="STR_Medic_Respawn_2">
-			<Original>You can now respawn</Original>
+			<Original>Ahora puede reaparecer</Original>
 			<German>Du kannst nun respawnen</German>
 			<French>Vous pouvez désormais réapparaître</French>
 			<Italian>Puoi ora fare respawn</Italian>
 			<Portuguese>Você pode dar respawn</Portuguese>
 		</Key>
 		<Key ID="STR_Medic_RevivePay">
-			<Original>%1 has revived you and a fee of $%2 was taken from your bank account for their services.</Original>
+			<Original>%1 que ha reavivado y una cuota de $%2 fue tomada de su cuenta bancaria por sus servicios.</Original>
 			<German>%1 hat dich wiederbelebt und dafür eine Gebühr von $%2 von deinem Bankkonto eingezogen.</German>
 			<French>%1 vous à réanimé, les fraits de $%2 sont transféré depuit votre compte bancaire pour leurs services.</French>
 			<Italian>%1 ti ha rianimato e sono stati prelevati €%2 dal tuo conto in banca per pagare la prestazione.</Italian>
 			<Portuguese>%1 reviveu você e uma taxa de R$2% foi cobrada da sua conta bancária para os serviços prestados.</Portuguese>
 		</Key>
 		<Key ID="STR_Medic_AlreadyReviving">
-			<Original>Someone else is already reviving this person</Original>
+			<Original>Otra persona ya está CURANDO esta persona</Original>
 			<German>Jemand anderes belebt diese Person bereits wieder</German>
 			<French>Quelqu'un d'autre s'occupe déjà de cette personne</French>
 			<Italian>Qualcun'altro sta già provando a rianimare questa persona</Italian>
 			<Portuguese>Outro médico já está revivendo esse jogador</Portuguese>
 		</Key>
 		<Key ID="STR_Medic_Progress">
-			<Original>Reviving %1</Original>
+			<Original>La reactivación %1</Original>
 			<German>Wird wiederbelebt %1</German>
 			<French>Réanimations %1</French>
 			<Italian>Rianimando %1</Italian>
 			<Portuguese>Revivendo %1</Portuguese>
 		</Key>
 		<Key ID="STR_Medic_RevivedRespawned">
-			<Original>This person either respawned or was already revived.</Original>
+			<Original>Esta persona ya sea respawned o ya se curado.</Original>
 			<German>Diese Person ist entweder respawnt oder wurde bereits wiederbelebt.</German>
 			<French>Cette personne à soit réapparue, soit a déjà été réanimée.</French>
 			<Italian>Questa persona è stata già rianimata o ha fatto respawn.</Italian>
 			<Portuguese>Esse jogador já deu respow ou já foi reanimado.</Portuguese>
 		</Key>
 		<Key ID="STR_Medic_RevivePayReceive">
-			<Original>You have revived %1 and received $%2 for your services.</Original>
+			<Original>Han reavivado %1 recibido $%2 para sus servicios.</Original>
 			<German>Du hast %1 wiederbelebt und $%2 für deine Dienste erhalten.</German>
 			<French>Vous avez réanimé %1 vous avez reçu $%2 pour votre aide</French>
 			<Italian>Hai rianimato %1 e hai ricevuto €%2 per la tua prestazione.</Italian>
 			<Portuguese>Você reviveu %1 e recebeu R$%2 de seus serviços prestados.</Portuguese>
 		</Key>
 		<Key ID="STR_Medic_TooFar">
-			<Original>You got to far away from the body.</Original>
+			<Original>Tienes demasiado lejos del cuerpo.</Original>
 			<German>Du bist zu weit vom Körper entfernt.</German>
 			<French>Vous êtes trop loin du corps.</French>
 			<Italian>Sei andato troppo distante dal corpo.</Italian>
@@ -4222,28 +4222,28 @@
 	</Package>
 		<Package name="Federal_Reserve">
 		<Key ID="STR_NOTF_FRRobbery_fail">
-			<Original>The robbery has failed due to unknown reasons</Original>
+			<Original>El robo ha fallado debido a razones desconocidas</Original>
 			<German>Der Raub ist aus unbekannten Gründen fehlgeschlagen</German>
 			<French>Le vol de la réserve fédérale a échoué pour des raisons inconnues</French>
 			<Italian>La rapina è fallita per cause sconosciute</Italian>
 			<Portuguese>O roubo falhou por uma causa desconhecida.</Portuguese>
 		</Key>
 		<Key ID="STR_NOTF_FRRobbery_Success">
-			<Original>$%1 was stolen from the robbery on the federal reserve</Original>
+			<Original>$%1 fue robado desde el robo de la Reserva Federal</Original>
 			<German>$%1 wurden von den Räubern aus der Zentralbank gestohlen</German>
 			<French>$%1 a été volé à la réserve fédérale.</French>
 			<Italian>€%1 sono stati rubati durante la rapina alla banca</Italian>
 			<Portuguese>R$%1 foi roubado da Reserva Federal.</Portuguese>
 		</Key>
 		<Key ID="STR_FEDR_VInUse">
-			<Original>This vault is already being robbed by someone else</Original>
+			<Original>Esta vault ya está siendo robado por otra persona</Original>
 			<German>Der Tresor wird bereits von jemand anderem ausgeraubt</German>
 			<French>Ce coffre est déjà pillé par quelqu'un d'autre</French>
 			<Italian>Questo Caveau sta venendo rapinando da qualcun'altro</Italian>
 			<Portuguese>Esse cofre já está sendo roubado por outro jogador.</Portuguese>
 		</Key>
 		<Key ID="STR_FEDR_VRecently">
-			<Original>This vault was already robbed recently</Original>
+			<Original>Esta vault ya fue robado recientemente</Original>
 			<German>Der Tresor wurde bereits vor Kurzem ausgeraubt</German>
 			<French>Ce coffre a déjà été pillé récemment</French>
 			<Italian>Questo Caveau è stato svaligiato di recente</Italian>
@@ -4273,14 +4273,14 @@
 			<Portuguese>Informações do Veículo</Portuguese>
 		</Key>
 		<Key ID="STR_GUI_PlayerReveal">
-			<Original>Automatically reveals nearest objects within 15m, turn this setting off if you are experiencing performance issues.</Original>
+			<Original>revela automáticamente los objetos más cercanos dentro de 15m, desactive este ajuste si está experimentando problemas de rendimiento.</Original>
 			<German>Zeigt automatisch nächstgelegene Objekte innerhalb von 15m an, deaktiviere es, wenn du Leistungprobleme hast.</German>
 			<French>Révèle automatiquement les objets les plus proches au sein de 15m, désactiver ce paramètre si vous rencontrez des problèmes de performance.</French>
 				<Italian>Rivela automaticamente gli oggettivi vicini entro 15m, disattiva quest'impostazione se riscontri dei problemi di perfomance di sistema.</Italian>
 			<Portuguese>Revela objetos a 15m, desligue essa opção se está tendo problemas de performance.</Portuguese>
 		</Key>
 		<Key ID="STR_GUI_PlayTags">
-			<Original>Controls whether or not players will have name tags above their head.</Original>
+			<Original>Controla si los jugadores tendrán etiquetas de nombre por encima de su cabeza.</Original>
 			<German>Regelt, ob Spieler Namensschilder über dem Kopf haben.</German>
 			<French>Contrôle si les joueurs auront ou non leur noms au dessus de leur tête</French>
 			<Italian>Controlla la visualizzazione delle tags sopra la testa dei giocatori</Italian>
@@ -4303,14 +4303,14 @@
 			<Portuguese>Menu de Interação do Jogador</Portuguese>
 		</Key>
 		<Key ID="STR_pInAct_PutInCar">
-			<Original>Put in vehicle</Original>
+			<Original>Poner en vehículos</Original>
 			<German>Ins Fahrzeug setzen</German>
 			<French>Embarquer</French>
 			<Italian>Metti nel Veicolo</Italian>
 			<Portuguese>Colocar no Veículo</Portuguese>
 		</Key>
 		<Key ID="STR_pInAct_SeizeWeapon">
-			<Original>Seize Illegal Personnel</Original>
+			<Original>Apoderarse de Personal ilegales</Original>
 		</Key>
 		<Key ID="STR_pInAct_Unrestrain">
 			<Original>Un-Restrain</Original>
@@ -4320,21 +4320,21 @@
 			<Portuguese>Soltar</Portuguese>
 		</Key>
 		<Key ID="STR_pInAct_checkLicenses">
-			<Original>Check Licenses</Original>
+			<Original>Compruebe licencias</Original>
 			<German>Lizenzen überprüfen</German>
 			<French>Vérifier Licences</French>
 			<Italian>Controlla Licenze</Italian>
 			<Portuguese>Verificar Licenças</Portuguese>
 		</Key>
 		<Key ID="STR_pInAct_SearchPlayer">
-			<Original>Search Player</Original>
+			<Original>Buscar Player</Original>
 			<German>Spieler durchsuchen</German>
 			<French>Fouiller Joueur</French>
 			<Italian>Ricerca Giocatore</Italian>
 			<Portuguese>Buscar por Jogador</Portuguese>
 		</Key>
 		<Key ID="STR_pInAct_StopEscort">
-			<Original>Stop Escorting</Original>
+			<Original>Stop escoltando</Original>
 			<German>Eskortieren stoppen</German>
 			<French>Arrêter Escorte</French>
 			<Italian>Ferma Scorta</Italian>
@@ -4355,7 +4355,7 @@
 			<Portuguese>Multar Jogador</Portuguese>
 		</Key>
 		<Key ID="STR_pInAct_Arrest">
-			<Original>Send to jail</Original>
+			<Original>Enviar a la cárcel</Original>
 			<German>Ins Gefängnis stecken</German>
 			<French>Envoyer en prison</French>
 			<Italian>Arresta</Italian>
@@ -4383,7 +4383,7 @@
 			<Portuguese>Quebrar Porta</Portuguese>
 		</Key>
 		<Key ID="STR_pInAct_SearchHouse">
-			<Original>Search house</Original>
+			<Original>Buscar house</Original>
 			<German>Haus durchsuchen</German>
 			<French>Fouiller la maison</French>
 			<Italian>Cerca Casa</Italian>
@@ -4397,14 +4397,14 @@
 			<Portuguese>Trancar a Casa</Portuguese>
 		</Key>
 		<Key ID="STR_pInAct_BuyHouse">
-			<Original>Buy House</Original>
+			<Original>Compra casa</Original>
 			<German>Haus kaufen</German>
 			<French>Acheter la maison</French>
 			<Italian>Compra Casa</Italian>
 			<Portuguese>Comprar a Casa</Portuguese>
 		</Key>
 		<Key ID="STR_pInAct_SellGarage">
-			<Original>Sell Garage</Original>
+			<Original>Venta de garaje</Original>
 			<German>Garage verkaufen</German>
 			<French>Vendre le garage</French>
 			<Italian>Vendi Garage</Italian>
@@ -4418,42 +4418,42 @@
 			<Portuguese>Garagem</Portuguese>
 		</Key>
 		<Key ID="STR_pInAct_StoreVeh">
-			<Original>Store Vehicle</Original>
+			<Original>Vehículo tienda</Original>
 			<German>Fahrzeug parken</German>
 			<French>Ranger le vehicule</French>
 			<Italian>Parcheggia Veicolo</Italian>
 			<Portuguese>Guardar Veículo</Portuguese>
 		</Key>
 		<Key ID="STR_pInAct_SellHouse">
-			<Original>Sell House</Original>
+			<Original>Venta Casa</Original>
 			<German>Haus verkaufen</German>
 			<French>Vendre la maison</French>
 			<Italian>Vendi Casa</Italian>
 			<Portuguese>Vender casa</Portuguese>
 		</Key>
 		<Key ID="STR_pInAct_UnlockStorage">
-			<Original>Unlock Storage</Original>
+			<Original>Desbloquear almacenamiento</Original>
 			<German>Lagerplatz aufsperren</German>
 			<French>Déverrouiller l'inventaire</French>
 			<Italian>Sblocca contenitori</Italian>
 			<Portuguese>Destrancar Caixa</Portuguese>
 		</Key>
 		<Key ID="STR_pInAct_LockStorage">
-			<Original>Lock Storage</Original>
+			<Original>bloqueo de almacenamiento</Original>
 			<German>Lagerplatz absperren</German>
 			<French>Verrouiller l'inventaire</French>
 			<Italian>Blocca contenitori</Italian>
 			<Portuguese>Trancar Caixa</Portuguese>
 		</Key>
 		<Key ID="STR_pInAct_LightsOff">
-			<Original>Turn Lights Off</Original>
+			<Original>Apagar las luces</Original>
 			<German>Licht ausschalten</German>
 			<French>Lumières éteintes</French>
 			<Italian>Spegni luci</Italian>
 			<Portuguese>Ligar Luzes</Portuguese>
 		</Key>
 		<Key ID="STR_pInAct_LightsOn">
-			<Original>Turn Lights On</Original>
+			<Original>Encender las luces</Original>
 			<German>Licht anschalten</German>
 			<French>Lumières allumées</French>
 			<Italian>Accendi luci</Italian>
@@ -4493,7 +4493,7 @@
 			<Portuguese>Entrar no Kart</Portuguese>
 		</Key>
 		<Key ID="STR_vInAct_PushBoat">
-			<Original>Push Boat</Original>
+			<Original>empuje Barco</Original>
 			<German>Boot schieben</German>
 			<French>Pousser bateau</French>	
 			<Italian>Spingi Barca</Italian>			
@@ -4514,7 +4514,7 @@
 			<Portuguese>Licenças</Portuguese>
 		</Key>
 		<Key ID="STR_vInAct_SearchVehicle">
-			<Original>Search Vehicle</Original>
+			<Original>Buscar Vehicle</Original>
 			<German>Fahrzeug durchsuchen</German>
 			<French>Fouiller Véhicule</French>
 			<Italian>Cerca Veicolo</Italian>
@@ -4531,80 +4531,80 @@
 			<Original>copPullout Players</Original>
 		</Key>
 		<Key ID="STR_vInAct_Impound">
-			<Original>Impound Vehicle</Original>
+			<Original>Confiscar Vehicle</Original>
 			<German>Fahrzeug beschlagnahmen</German>
 			<French>Mise en fourrière</French>
 			<Italian>Sequestra Veicolo</Italian>
 			<Portuguese>Apreender Veículo</Portuguese>
 		</Key>
 		<Key ID="STR_vInAct_Seize">
-			<Original>Seize Vehicle</Original>
+			<Original>apoderarse del vehículo</Original>
 		</Key>
 		<Key ID="STR_vInAct_DeviceMine">
-			<Original>Mine from device</Original>
+			<Original>Mina del dispositivo</Original>
 			<German>Vom Gerät abbauen</German>
 			<French>Dispositif de minage</French>
 			<Italian>Piazza mine dal veicolo</Italian>
 			<Portuguese>Minerar</Portuguese>
 		</Key>
 		<Key ID="STR_vInAct_Lockpick">
-			<Original>Lockpick Vehicle</Original>
+			<Original>ganzúa Vehículo</Original>
 		</Key>
 		<Key ID="STR_vInAct_JerryRefuel">
-			<Original>Refuel Vehicle</Original>
+			<Original>repostaje de vehículos</Original>
 		</Key>
 		<Key ID="STR_vInAct_GpsTracker">
-			<Original>Track Vehicle</Original>
+			<Original>Vehículo de pista</Original>
 		</Key>		
 		<Key ID="STR_vInAct_SpeedBomb">
-			<Original>Attach SpeedBomb</Original>
+			<Original>Bomba de Velocidad de ataque</Original>
 		</Key>	
 	</Package>
 	<Package name="Session_Strings">
 		<Key ID="STR_Session_Query">
-			<Original>Sending request to server for player information UID [%1]</Original>
+			<Original>Envío de petición al servidor de información del jugador UID [%1]</Original>
 			<German>Frage Spieler Informationen zu UID [%1] ab</German>
 			<French>Envoi de la requête au serveur pour obtenir des informations lecteur UID [%1]</French>
 			<Italian>Invio richiesta al server per le informazioni del giocatore UID [%1]</Italian>
 			<Portuguese>Obtendo informações do UID [%1] no servidor</Portuguese>
 		</Key>
 		<Key ID="STR_Session_QueryFail">
-			<Original>The server didn't find any player information matching your UID, attempting to add player to system.</Original>
+			<Original>El servidor no ha encontrado ninguna información de los jugadores que coincidan con su UID, intentar añadir al sistema reproductor.</Original>
 			<German>Der Server hat keine Spieler Informationen zu deiner UID gefunden, versuche, Spieler ins System hinzuzufügen.</German>
 			<French>Le serveur n'a pas trouvé toutes les informations de lecteur correspondant à votre UID, tentative d'ajout du joueur dans le système.</French>
 			<Italian>Il server non ha trovato alcuna informazione sul giocatore con il tuo UID, tentativo di aggiunta del giocatore al sistema.</Italian>
 			<Portuguese>O servidor não encontrou qualquer informação do jogador correspondente ao seu UID, tentando adicionar jogador para o sistema.</Portuguese>
 		</Key>
 		<Key ID="STR_Session_Error">
-			<Original>There was an error in trying to setup your client.</Original>
+			<Original>Hubo un error al tratar de configurar su cliente.</Original>
 			<German>Es gab einen Fehler beim Versuch, deinen Client einzurichten.</German>
 			<French>Il y avait une erreur en essayant de configurer votre client.</French>
 			<Italian>C'è stato qualche errore nel cercare di inizializzare il tuo client</Italian>
 			<Portuguese>Ocorreu um erro ao tentar configurar o seu cliente</Portuguese>
 		</Key>
 		<Key ID="STR_Session_Received">
-			<Original>Received request from server... Validating...</Original>
+			<Original>solicitud recibida desde el servidor... validar...</Original>
 			<German>Empfangene Daten vom Server... Überprüfe...</German>
 			<French>Demande reçue du serveur... Validation...</French>
 			<Italian>Ricevuta richiesta dal server... Convalida...</Italian>
 			<Portuguese>Pedido recebido do servidor... Validando...</Portuguese>
 		</Key>
 		<Key ID="STR_Session_SyncdAlready">
-			<Original>You have already used the sync option, you can only use this feature once every 5 minutes.</Original>
+			<Original>Ya ha utilizado la opción de sincronización, sólo se puede utilizar esta función una vez cada 5 minutos.</Original>
 			<German>Du hast bereits die Sync-Option verwendet, diese Funktion kann nur einmal alle 5 Minuten verwendet werden.</German>
 			<French>Vous avez déjà utilisé l'option de synchronisation, vous ne pouvez utiliser cette fonction une fois toutes les 5 minutes.</French>
 			<Italian>Hai già utilizzato la funzione di salva dati, puoi usare quest'opzione solo una volta ogni 5 minuti.</Italian>
 			<Portuguese>Você já usou a opção de sincronização, você só pode usar esse recurso uma vez a cada 5 minutos.</Portuguese>
 		</Key>
 		<Key ID="STR_Session_SyncCheater">
-			<Original>Because of some cheater corrupting the BIS MP Framework they have stopped you from enjoying our mission.\n\nYou can try this again in a minute if you feel it is a mistake.</Original>
+			<Original>Debido a algún tramposo corromper el marco BIS MP que se han dejado de disfrutar de nuestra misión.\n\nPuede probar este nuevo en un minuto si se siente que es un error.</Original>
 			<German>Wegen einiger Cheater ist das BIS MP Framework beschädigt. Versuche es in einer Minute nochmal.</German>
 			<French>En raison de certains tricheur tentant corrompre le BIS MP Framework,ils vous ont empêché de profiter de notre mission.\n\nVous pouvez essayer ce nouveau dans une minute si vous pensez que c'est une erreur.</French>
 			<Italian>A causa di qualche cheater che ha corrotto il BIS MP Framework il tuo divertimento in questa missione finisce qui per ora.\n\nPuoi provare a rientrare a breve se pensi sia un errore.</Italian>
 			<Portuguese>Por conta de alguns trapaceiro corrompendo o Quadro BIS MP eles pararam de desfrutar a nossa missão.\n\nVocê pode tentar de novo em um minuto se achar que isso é um engano.</Portuguese>
 		</Key>
 		<Key ID="STR_Session_SyncData">
-			<Original>Syncing player information to the server.\n\nPlease wait up to 20 seconds before leaving.</Original>
+			<Original>Sincronización de información de los jugadores en el servidor.\n\nPor favor espere hasta 20 segundos antes de salir.</Original>
 			<German>Synchronisieren der Spieler Informationen mit dem Server. \n\nBitte warte bis zu 20 Sekunden vor dem Verbindungsabbruch.</German>
 			<French>Synchronisation des informations de joueur sur le serveur.\n\nS'il vous plaît veuiller attendre 20 secondes avant de quitter.</French>
 			<Italian>Salvando le informazioni giocatore sul server.\n\nAttendere fino a 20 secondi prima di abbandonare.</Italian>
@@ -4613,21 +4613,21 @@
 	</Package>
 	<Package name="Shop_Strings">
 		<Key ID="STR_Shop_ATMRobbed">
-			<Original>Because you robbed the bank you can't use the ATM for 5 minutes.</Original>
+			<Original>Debido a que robó el banco no se puede usar el cajero automático durante 5 minutos.</Original>
 			<German>Da du die Bank ausgeraubt hast, kannst du für 5 Minuten keine Bankomaten benutzen.</German>
 			<French>Vous avez pillé la banque, vous ne pouvez pas utiliser le guichet automatique pendant 5 minutes.</French>
 			<Italian>Avendo appena rapinato la banca non puoi utilizzare il Bancomat per 5 minuti.</Italian>
 			<Portuguese>Você não pode usar um ATM por 5 minutos, pois você assaltou o banco.</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_NoClothes">
-			<Original>You didn't choose the clothes you wanted to buy.</Original>
+			<Original>No han elegido la ropa que quería comprar.</Original>
 			<German>Du hast die Kleidung, die du kaufen wolltest, nicht ausgewählt.</German>
 			<French>Vous n'avez pas choisi les vêtements que vous vouliez acheter.</French>
 			<Italian>Non hai selezionato i vestiti che vuoi comprare.</Italian>
 			<Portuguese>Você não selecionou a roupa que deseja comprar.</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_NotEnoughClothes">
-			<Original>Sorry sir, you don't have enough money to buy those clothes.</Original>
+			<Original>Lo siento, no tiene suficiente dinero para comprar esa ropa.</Original>
 			<German>Entschuldigung, du hast nicht genug Geld, um diese Kleidung zu kaufen.</German>
 			<French>Désolé monsieur, vous n'avez pas assez d'argent pour acheter ces vêtements.</French>
 			<Italian>Spiacente ma non hai fondi a sufficienza per comprare questi vestiti.</Italian>
@@ -4641,119 +4641,119 @@
 			<Portuguese>Total:</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_NoSelection">
-			<Original>No Selection</Original>
+			<Original>sin selección</Original>
 			<German>Keine Auswahl</German>
 			<French>Aucune Sélection</French>
 			<Italian>Nessuna Selezione</Italian>
 			<Portuguese>Nada Selecionado</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_NoDisplay">
-			<Original>No Display</Original>
+			<Original>Sin pantalla</Original>
 			<German>Keine Anzeige</German>
 			<French>Pas d'affichage</French>
 			<Italian>No Display</Italian>
 			<Portuguese>Sem exibir</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_NoVehNear">
-			<Original>There are no vehicles near to sell.</Original>
+			<Original>No hay vehículos cerca de vender.</Original>
 			<German>Es ist keine Fahrzeug zum Verkaufen in der Nähe.</German>
 			<French>Il n'y a pas de véhicules à proximité à vendre</French>
 			<Italian>Nelle vicinanze non ci sono veicoli da vendere.</Italian>
 			<Portuguese>Não existem veiculos para serem vendidos.</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_ChopShopError">
-			<Original>There was a problem opening the chop shop menu.</Original>
+			<Original>Hubo un problema al abrir el menú de desguace.</Original>
 			<German>Es gab ein Problem beim Öffnen des illegalen Fahrzeughändler-Menüs.</German>
 			<French>Il y a un probleme en ouvrant le menu du concessionnaire de véhicule illégal.</French>
 			<Italian>C'è stato un problema aprendo il menu del ricettatore</Italian>
 			<Portuguese>Ocorreu um problema abrindo o menu, tente novamente.</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_ChopShopSelling">
-			<Original>Selling vehicle please wait...</Original>
+			<Original>La venta de vehículos por favor espere...</Original>
 			<German>Verkaufe Fahrzeug, bitte warten...</German>
 			<French>Vente du véhicule, veuillez patienter...</French>
 			<Italian>Vendendo il veicolo, attendere prego...</Italian>
 			<Portuguese>Vendendo o veiculo, aguarde....</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_NotaCiv">
-			<Original>You need to be a civilian to use this store!</Original>
+			<Original>Tienes que ser un civil para usar esta tienda!</Original>
 			<German>Du musst ein Zivilist sein, um diesen Shop nutzen zu können!</German>
 			<French>Vous devez être un civil pour utiliser ce magasin!</French>
 			<Italian>Devi essere un civile per utilizzare questo negozio!</Italian>
 			<Portuguese>Você tem que ser um cívil para user essa loja!</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_NotaCop">
-			<Original>You need to be a cop to use this store!</Original>
+			<Original>Es necesario ser un policía de usar esta tienda!</Original>
 			<German>Du musst ein Polizist sein, um diesen Shop nutzen zu können!</German>
 			<French>Vous devez être un flic pour utiliser ce magasin!</French>
 			<Italian>Devi essere un poliziotto per utilizzare questo negozio!</Italian>
 			<Portuguese>Você tem que ser Policial para usar essa loja!</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_NotaReb">
-			<Original>You don't have rebel training yet!</Original>
+			<Original>No es necesario que la formación rebelde sin embargo,!</Original>
 			<German>Du besitzt keine Rebellen Lizenz!</German>
 			<French>Vous n'avez pas encore d'entrainement rebelle!</French>
 			<Italian>Devi essere ribelle per poter utilizzare questo negozio!</Italian>
 			<Portuguese>Você não tem Treinamento Rebelde!</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_NotaDive">
-			<Original>You need a Diving license to use this shop!</Original>
+			<Original>Es necesaria una licencia de buceo para usar esta tienda!</Original>
 			<German>Du benötigst eine Taucherlizenz, um diesen Tauchershop nutzen zu können!</German>
 			<French>Vous devez avoir votre diplome de plongée pour utiliser ce magasin!</French>
 			<Italian>Ti serve la licenza di pesca per usare questo negozio!</Italian>
 			<Portuguese>Você precisa de uma Licença de Mergulho para usar essa loja!</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_YouNeed">
-			<Original>You need a %1 to buy from this shop!</Original>
+			<Original>Tu necesitas  %1 comprar a esta tienda!</Original>
 			<German>Du benötigst eine %1, um diesen Shop nutzen zu können!</German>
 			<French>Vous avez besoin de %1 pour acheter dans ce magasin</French>
 			<Italian>Hai bisogno di %1 per comprare da questo negozio!</Italian>
 			<Portuguese>Você precisa de %1 para comprar nessa loja!</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_UI_Clothing">
-			<Original>Clothing</Original>
+			<Original>Ropa</Original>
 			<German>Kleidung</German>
 			<French>Tenues</French>
 			<Italian>Abiti</Italian>
 			<Portuguese>Roupas</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_UI_Hats">
-			<Original>Hats</Original>
+			<Original>Sombreros</Original>
 			<German>Kopfbedeckungen</German>
 			<French>Chapeaux</French>
 			<Italian>Copricapi</Italian>
 			<Portuguese>Boinas</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_UI_Glasses">
-			<Original>Glasses</Original>
+			<Original>Gafas</Original>
 			<German>Brillen</German>
 			<French>Lunettes</French>
 			<Italian>Occhiali</Italian>
 			<Portuguese>Óculos</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_UI_Vests">
-			<Original>Vests</Original>
+			<Original>chalecos</Original>
 			<German>Westen</German>
 			<French>Gilet</French>
 			<Italian>Vesti</Italian>
 			<Portuguese>Coletes</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_UI_Backpack">
-			<Original>Backpack</Original>
+			<Original>Mochila</Original>
 			<German>Rucksack</German>
 			<French>Sac-à-dos</French>
 			<Italian>Zaini</Italian>
 			<Portuguese>Mochilas</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Unimpound_VehExist">
-			<Original>There is currently a car there.</Original>
+			<Original>En la actualidad existe un coche allí.</Original>
 			<German>Es steht bereits ein Fahrzeug dort.</German>
 			<French>Il y a actuellement une voiture.</French>
 			<Italian>C'è già un veicolo qui.</Italian>
 			<Portuguese>Tem um veiculo atualmente no respaw.</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Unimpound_NotEnough">
-			<Original>You do not have enough money on you or in your bank to get your car back.</Original>
+			<Original>Usted no tiene suficiente dinero en usted o en su banco para recuperar su carro.</Original>
 			<German>Du hast nicht genug Geld bei dir oder auf dem Bankkonto, um dein Auto auszulösen.</German>
 			<French>Vous n'avez pas assez d'argent sur vous ou dans votre banque pour obtenir votre voiture</French>
 			<Italian>Non hai abbastanza fondi alla mano o nel tuo conto in banca per poter riavere il tuo veicolo.</Italian>
@@ -4767,35 +4767,35 @@
 			<Portuguese>Você liberou %1 for R$%3</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Veh_DidntPick">
-			<Original>You did not pick a vehicle!</Original>
+			<Original>Usted no eligió un vehículo!</Original>
 			<German>Du hast kein Fahrzeug ausgewählt!</German>
 			<French>Vous n'avez pas choisi de véhicule!</French>
 			<Italian>Non hai selezionato un veicolo!</Italian>
 			<Portuguese>Você não consegiu roubar o veiculo!</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Veh_NotEnough">
-			<Original>You do not have enough cash to purchase this vehicle.\n\nAmount Lacking: $%1</Original>
+			<Original>Usted no tiene suficiente dinero para poder comprar este vehículo.\n\nfalta de cantidad: $%1</Original>
 			<German>Du hast nicht genug Geld, um das Fahrzeug zu kaufen.\n\nFehlender Betrag: $%1</German>
 			<French>Vous n'avez pas assez d'argent pour acheter ce véhicule \n\nArgent Manquant: $%1</French>
 			<Italian>Non hai fondi sufficienti per comprare questo veicolo.\n\nTi mancano: €%1</Italian>
 			<Portuguese>Você não tem dinheiro suficiente para comprar esse veiculo.\n\nFaltam: R$%1</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Veh_NoLicense">
-			<Original>You do not have the required license!</Original>
+			<Original>Usted no tiene la licencia necesaria!</Original>
 			<German>Du besitzt die benötigte Lizenz nicht!</German>
 			<French>Vous n'avez pas la licence requise!</French>
 			<Italian>Non hai la licenza richiesta per l'acquisto!</Italian>
 			<Portuguese>Você não tem a licença necessária!</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Veh_Block">
-			<Original>There is a vehicle currently blocking the spawn point</Original>
+			<Original>Hay un vehículo bloqueando actualmente el punto de generación</Original>
 			<German>Ein Fahrzeug blockiert gerade den Spawnpunkt</German>
 			<French>Il y a actuellement un véhicule qui bloque le point de spawn</French>
 			<Italian>C'è già un veicolo che blocca la zona di spawn</Italian>
 			<Portuguese>Existe um veiculo bloquenado a area de respaw</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Veh_Bought">
-			<Original>You bought a %1 for $%2</Original>
+			<Original>Usted compró una %1 para $%2</Original>
 			<German>Du kaufst eine(n) %1 für $%2</German>
 			<French>Vous avez acheté un %1 pour $%2</French>
 			<Italian>Hai comprato un %1 al costo di €%2</Italian>
@@ -4816,42 +4816,42 @@
 			<Portuguese>Compra:</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Veh_UI_MaxSpeed">
-			<Original>Max Speed:</Original>
+			<Original>Máxima velocidad:</Original>
 			<German>Max. Geschwindigkeit:</German>
 			<French>Vitesse Max:</French>
 			<Italian>Velocità Max:</Italian>
 			<Portuguese>Velocidade Máxima:</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Veh_UI_HPower">
-			<Original>Horse Power:</Original>
+			<Original>Caballo de fuerza:</Original>
 			<German>Pferdestärken:</German>
 			<French>Puissance en chevaux:</French>
 			<Italian>Cavalli:</Italian>
 			<Portuguese>Cavalos de Força:</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Veh_UI_PSeats">
-			<Original>Passenger Seats:</Original>
+			<Original>Los asientos de pasajeros:</Original>
 			<German>Passagierplätze:</German>
 			<French>Sieges passager:</French>
 			<Italian>Sedili passeggeri:</Italian>
 			<Portuguese>Assentos:</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Veh_UI_Trunk">
-			<Original>Trunk Capacity:</Original>
+			<Original>Capacidad de maletero:</Original>
 			<German>Kofferraumgröße:</German>
 			<French>Capacité du coffre:</French>
 			<Italian>Capacità Inventario:</Italian>
 			<Portuguese>Armazenamento:</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Veh_UI_Fuel">
-			<Original>Fuel Capacity:</Original>
+			<Original>Capacidad de combustible:</Original>
 			<German>Tankgröße:</German>
 			<French>Capacité du réservoir:</French>
 			<Italian>Capacità Serbatoio:</Italian>
 			<Portuguese>Autonomia:</Portuguese>
 		</Key>
 		<Key ID="STR_Shop_Veh_UI_Armor">
-			<Original>Armor Rating:</Original>
+			<Original>Valoración de la armadura:</Original>
 			<German>Panzerungsbewertung:</German>
 			<French>Blindage:</French>
 			<Italian>Resistenza:</Italian>
