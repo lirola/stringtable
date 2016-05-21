@@ -35,7 +35,7 @@
 			<French>Marché Rebel</French>
 		</Key>
 		<Key ID="STR_Shops_Gang">
-			<Original>Mercado de Pandillas</Original>
+			<Original>Mercado de Bandas</Original>
 			<German>Gang Markt</German>
 			<Italian>Mercato Gang</Italian>
 			<French>Marché de Gang</French>
@@ -1828,7 +1828,7 @@
 			<Portuguese>Você não tem R$%1 em sua conta bancária para pagar a fiança.</Portuguese>
 		</Key>
 		<Key ID="STR_NOTF_Bail_Bailed">
-			<Original>%1 pago su fianza!</Original>
+			<Original>%1 pagó su fianza!</Original>
 			<German>%1 hat die Kaution bezahlt!</German>
 			<French>%1 a payé sa caution!</French>
 			<Italian>%1 ha pagato la cauzione!</Italian>
@@ -2023,49 +2023,49 @@
 			<Portuguese>Você está começando a ficar famindo. Se você não comer irá morrer de fome.</Portuguese>
  		</Key>
  		<Key ID="STR_NOTF_EatMSG_3">
- 			<Original>You are now starving to death, you will die very soon if you don't eat something</Original>
+ 			<Original>Se esta muriendo de hambre, va a morir muy pronto si usted no come algo</Original>
 			<German>Du bist am Verhungern, du wirst sterben, wenn du nichts zum Essen findest</German>
 			<French>Vous êtes en train de mourir de faim, vous allez mourir très bientôt si vous ne mangez pas quelque chose</French>
 			<Italian>Stai perdendo le forze, se non mangi qualcosa in fretta morirai.</Italian>
 			<Portuguese>Você está morto de fome, coma algo ou irá morrer.</Portuguese>
  		</Key>
  		<Key ID="STR_NOTF_EatMSG_Death">
- 			<Original>You have starved to death.</Original>
+ 			<Original>Usted ha muerto de hambre.</Original>
 			<German>Du bist verhungert.</German>
 			<French>Vous êtes mort de faim.</French>
 			<Italian>Sei morto per la fame.</Italian>
 			<Portuguese>Você morreu de fome</Portuguese>
  		</Key>
  		<Key ID="STR_NOTF_DrinkMSG_1">
- 			<Original>You haven't drank anything in awhile, You should find something to drink soon.</Original>
+ 			<Original>No ha bebido nada en un rato, usted debe encontrar algo de beber pronto.</Original>
 			<German>Du hast schon eine Weile nichts mehr getrunken, du solltest schnell etwas zum Trinken suchen.</German>
 			<French>Vous n'avez rien bu depuis un certain temps, vous devriez trouver quelque chose à boire!</French>
 			<Italian>E' da parecchio tempo che non bevi qualcosa, dovresti trovare qualcosa da bere.</Italian>
 			<Portuguese>Você não bebe nada a bastante tempo. Tome algo para não ficar desidratado.</Portuguese>
  		</Key>
  		<Key ID="STR_NOTF_DrinkMSG_2">
- 			<Original>You haven't drank anything in along time, you should find something to drink soon or you'll start to die from dehydration.</Original>
+ 			<Original>No ha bebido nada en mucho tiempo, usted debe encontrar algo de beber o empezara a morir por deshidratación.</Original>
 			<German>Du hast Durst, du solltest schnell etwas trinken oder du wirst verdursten.</German>
 			<French>Vous commencez à mourir de soif, vous avez besoin de trouver quelque chose à boire, sinon, vous allez mourrir</French>
 			<Italian>E' troppo tempo che non bevi qualcosa, dovresti trovare qualcosa da bere o comincerai a disitratarti.</Italian>
 			<Portuguese>Você está ficando desidratado. Se não ber algo poderá morrer.</Portuguese>
  		</Key>
  		<Key ID="STR_NOTF_DrinkMSG_3">
- 			<Original>You are now suffering from severe dehydration find something to drink quickly!</Original>
+ 			<Original>Ahora está sufriendo una deshidratación severa,debe encontrar algo para beber rápidamente!</Original>
 			<German>Du bist am Verdursten, du wirst sterben, wenn du nichts zum Trinken findest</German>
 			<French>Vous êtes en train de mourir de soif, vous allez mourir très bientôt si vous ne buvez pas quelque chose</French>
 			<Italian>Stai soffrendo per una grave deidratazione, trova velocemente qualcosa da bere o morirai!</Italian>
 			<Portuguese>Você está sofrendo de desidratação. Beba algo ou irá morrer!</Portuguese>
  		</Key>
  		<Key ID="STR_NOTF_DrinkMSG_Death">
- 			<Original>You have died from dehydration.</Original>
+ 			<Original>Has muerto a causa de la deshidratación.</Original>
 			<German>Du bist verdurstet.</German>
 			<French>Vous êtes mort de soif.</French>
 			<Italian>Sei morto per disidratazione.</Italian>
 			<Portuguese>Você morreu desidratado.</Portuguese>
  		</Key>
  		<Key ID="STR_NOTF_MaxWeight">
- 			<Original>You are over carrying your max weight! You will not be able to run or move fast till you drop some items!</Original>
+ 			<Original>Usted a sobrepasado su peso máximo! Usted no será capaz de correr o moverse rápidamente hasta que deje algunos artículos!</Original>
 			<German>Du trägst zu viel bei dir! Du bist nicht in der Lage, zu rennen oder dich schnell zu bewegen, bis du Gegenstände abgelegt hast!</German>
 			<French>Vous êtes surchargé, vous ne pouvez plus courrir ou bouger rapidement à moins de lacher quelques objets!</French>
 			<Italian>Stai trasportando oltre il tuo carico massimo! Non riuscirai a correre fino a quando non ti libererai di qualche oggetto!</Italian>
@@ -2079,102 +2079,102 @@
 			<Portuguese>&lt;t color='#FF0000'&gt;&lt;t size='2'&gt;Vehicle Info&lt;/t&gt;&lt;/t&gt;&lt;br/&gt;&lt;t color='#FFD700'&gt;&lt;t size='1.5'&gt;Owners&lt;/t&gt;&lt;/t&gt;&lt;br/&gt; %1</Portuguese>
  		</Key>
  		<Key ID="STR_NOTF_CannotSearchPerson">
-			<Original>Cannot search that person.</Original>
+			<Original>No se puede buscar a esa persona.</Original>
 			<German>Diese Person kann nicht durchsucht werden.</German>
 			<French>Cannot search that person.</French>
 			<Italian>Cannot search that person.</Italian>
 			<Portuguese>Cannot search that person.</Portuguese>
 		</Key>
 		<Key ID="STR_NOTF_Repairing">
- 			<Original>Repairing %1</Original>
+ 			<Original>Reparando %1</Original>
 			<German>Wird repariert %1</German>
 			<French>Repairing %1</French>
 			<Italian>Repairing %1</Italian>
 			<Portuguese>Repairing %1</Portuguese>
  		</Key>
  		<Key ID="STR_NOTF_RepairingInVehicle">
- 			<Original>You must be outside of the vehicle to fix it. Sorry that this prevents you from exploiting the system, well not really.</Original>
+ 			<Original>Debe estar fuera del vehículo para repararlo.</Original>
 			<German>Du musst außerhalb des Fahrzeuges sein, um es zu reparieren. Entschuldigung, aber das soll verhindern, dass du das System missbrauchst, naja, nicht wirklich.</German>
 			<French>You must be outside of the vehicle to fix it. Sorry that this prevents you from exploiting the system, well not really.</French>
 			<Italian>You must be outside of the vehicle to fix it. Sorry that this prevents you from exploiting the system, well not really.</Italian>
 			<Portuguese>You must be outside of the vehicle to fix it. Sorry that this prevents you from exploiting the system, well not really.</Portuguese>
  		</Key>
  		<Key ID="STR_NOTF_RepairedVehicle">
- 			<Original>You have repaired that vehicle.</Original>
+ 			<Original>Usted ha reparado el vehículo.</Original>
 			<German>Du hast dieses Fahrzeug repariert.</German>
 			<French>You have repaired that vehicle.</French>
 			<Italian>You have repaired that vehicle.</Italian>
 			<Portuguese>You have repaired that vehicle.</Portuguese>
  		</Key>
  		<Key ID="STR_NOTF_Gather_Success">
-			<Original>You have gathered %2 %1(s)</Original>
+			<Original>Se han reunido %2 %1(s)</Original>
 		</Key>
 		<Key ID="STR_NOTF_GatherVeh">
-			<Original>You can't gather from inside a car!</Original>
+			<Original>No se puede recoger desde el interior de un coche!</Original>
 		</Key>
 		<Key ID="STR_NOTF_NoLootingPerson">
-			<Original>You are not allowed to loot dead bodies</Original>
+			<Original>No se le permite a saquear cadáveres</Original>
 		</Key>
 	</Package>
 	<Package name="Jail_Strings">
 		<Key ID="STR_Jail_Warn">
-			<Original>You have been arrested, wait your time out. If you attempt to respawn or reconnect your time will increase!</Original>
+			<Original>Usted ha sido detenido, esperar su tiempo de encarcelamiento. Si intenta reaparecer o volver a conectar su tiempo de encarcelamiento aumentará!</Original>
 			<German>Du wurdest festgenommen, sitze deine Zeit ab. Wenn du versuchst, zu respawnen oder die Verbindung zu trennen, erhöht sich deine Zeit!</German>
 			<French>Vous avez été arrêté, attendez que votre peine soit terminée. Si vous tentez de respawn ou reconnectez votre temps sera augmenté!</French>
 			<Italian>Sei stato arrestato, sconta la tua pena. Se cercherai di rinascere o di riconnettere il tuo tempo aumenterà!</Italian>
 			<Portuguese>Você foi preso, cumpra sua pena. Se você tentar renascer ou reconectar seu tempo na cadeia irá aumentar!</Portuguese>
 		</Key>
 		<Key ID="STR_Jail_LicenseNOTF">
-			<Original>For being arrested you have lost the following licenses if you own them\n\nFirearms License\nRebel License</Original>
+			<Original>Por ser detenido ha perdido las siguientes licencias si los posee /n/nLicencia armas de fuego /nLicencia Rebelde</Original>
 			<German>Bei der Verhaftung hast du folgende Lizenzen verloren\n\nWaffen Lizenz\nRebellen Lizenz</German>
 			<French>Après votre mise en prison, vous avez perdu les licences suivante si vous les aviez\n\nFirearms License\nRebel License</French>
 			<Italian>A causa del tuo arresto hai perso le seguenti licenze, se le possedevi\n\nPorto d'armi\nLicenza Ribelle</Italian>
 			<Portuguese>Você perdeu as seguintes licenças por ter sido preso\n\nPorte de Armas\n\nTreinamento Rebelde</Portuguese>
 		</Key>
 		<Key ID="STR_Jail_EscapeNOTF">
-			<Original>%1 has escaped from jail!</Original>
+			<Original>%1 se ha escapado de la cárcel!</Original>
 			<German>%1 ist aus dem Gefängnis ausgebrochen!</German>
 			<French>%1 s'est échappé de prison!</French>
 			<Italian>%1 è scappato dalla prigione!</Italian>
 			<Portuguese>%1 escapou da prisão</Portuguese>
 		</Key>
 		<Key ID="STR_Jail_EscapeSelf">
-			<Original>You have escaped from jail, you still retain your previous crimes and now have a count of escaping jail.</Original>
+			<Original>Usted ha escapado de la cárcel, aún conservan sus crímenes anteriores y ahora tienen un delito por escapar de la cárcel.</Original>
 			<German>Du bist aus dem Gefängnis ausgebrochen, die Polizei sucht bereits wegen deiner früheren Verbrechen und Gefängnisausbruch nach dir.</German>
 			<French>Vous vous êtes échappé de prison, vous conserver toujours vos crimes précédents et ils savent maintenant que vous vous êtes échappé de prison.</French>
 			<Italian>Sei scappato di prigione, rimarrai ricercato per i crimini da te commessi in precedenza e in aggiunta per essere scappato di prigione.</Italian>
 			<Portuguese>Você escapou da prisão, agora você é procurado por esse crime e todos os outros que tinha cometido anteriormente</Portuguese>
 		</Key>
 		<Key ID="STR_Jail_Released">
-			<Original>You have served your time in jail and have been released.</Original>
+			<Original>Usted ha cumplido su condena en la cárcel y ha sido liberado.</Original>
 			<German>Du hast deine Zeit im Gefängnis abgesessen.</German>
 			<French>Vous avez terminé votre peine, vous êtes libre.</French>
 			<Italian>Hai scontato la tua pena in prigione e sei stato rilasciato.</Italian>
 			<Portuguese>Você pagou pelo seus crimes e foi libertado.</Portuguese>
 		</Key>
 		<Key ID="STR_Jail_Time">
-			<Original>Time Remaining:</Original>
+			<Original>Tiempo restante:</Original>
 			<German>Verbleibende Zeit:</German>
 			<French>Temps restant:</French>
 			<Italian>Tempo rimanente:</Italian>
 			<Portuguese>Tempo Restante:</Portuguese>
 		</Key>
 		<Key ID="STR_Jail_Pay">
-			<Original>Can pay bail:</Original>
+			<Original>Puede pagar la fianza:</Original>
 			<German>Kann Kaution zahlen:</German>
 			<French>Peut payer la caution:</French>
 			<Italian>Puoi pagare la cauzione:</Italian>
 			<Portuguese>Pode pagar fiança:</Portuguese>
 		</Key>
 		<Key ID="STR_Jail_Price">
-			<Original>Bail Price:</Original>
+			<Original>Precio fianza:</Original>
 			<German>Kaution:</German>
 			<French>Prix de la caution:</French>
 			<Italian>Costo cauzione:</Italian>
 			<Portuguese>Preço da fiança:</Portuguese>
 		</Key>
 		<Key ID="STR_Jail_Paid">
-			<Original>You have paid your bail and are now free.</Original>
+			<Original>Ha pagado su fianza y ahora es libre.</Original>
 			<German>Du hast deine Kaution bezahlt und bist nun frei.</German>
 			<French>Vous avez payé votre caution, vous êtes désormais libres.</French>
 			<Italian>Hai pagato la cauzione e sei libero.</Italian>
@@ -2183,322 +2183,322 @@
 	</Package>
 	<Package name="Civ_Strings">
 		<Key ID="STR_pInAct_Breathalyzer">
-			<Orignal>Breathalyze Player</Orignal>
+			<Orignal>alcoholímetro Player</Orignal>
 		</Key>
 		<Key ID="STR_pInAct_RevokeLicense">
-			<Orignal>Revoke Licenses</Orignal>
+			<Orignal>Revocar Licencias</Orignal>
 		</Key>
 		<Key ID="STR_Civ_RevokeLicense_Driver">
-			<Original>Your Drivers License has been REVOKED by the Police!</Original>
+			<Original>Su licencia de conducir ha sido REVOCADA por la Policía!</Original>
 		</Key>
 		<Key ID="STR_Civ_RevokeLicense_Truck">
-			<Original>Your Truck License has been REVOKED by the Police!</Original>
+			<Original>Su licencia de camiones ha sido REVOCADA por la Policía!</Original>
 		</Key>
 		<Key ID="STR_Civ_RevokeLicense_Pilot">
-			<Original>Your Pilot License has been REVOKED by the Police!</Original>
+			<Original>Su licencia de piloto ha sido REVOCADA por la Policía!</Original>
 		</Key>
 		<Key ID="STR_Civ_RevokeLicense_Boating">
-			<Original>Your Boating License has been REVOKED by the Police!</Original>
+			<Original>Su licencia de barcos ha sido REVOCADA por la Policía!</Original>
 		</Key>
 		<Key ID="STR_Civ_RevokeLicense_Diving">
-			<Original>Your Diving License has been REVOKED by the Police!</Original>
+			<Original>Su licencia de buceo ha sido REVOCADA por la Policía!</Original>
 		</Key>
 		<Key ID="STR_Civ_RevokeLicense_Taxi">
-			<Original>Your Taxi License has been REVOKED by the Police!</Original>
+			<Original>Su licencia de Taxi ha sido REVOCADA por la Policía!</Original>
 		</Key>
 		<Key ID="STR_Civ_RevokeLicense_AllMotor">
-			<Original>Your Motor Vehicle Licenses have been REVOKED by the Police!</Original>
+			<Original>Su licencias de vehiculos a motor han sido REVOCADAS por la Policía!</Original>
 		</Key>
 		<Key ID="STR_Civ_RevokeLicense_Firearm">
-			<Original>Your Firearms License has been REVOKED by the Police!</Original>
+			<Original>Su licencia de armas de fuego ha sido REVOCADA por la Policía!</Original>
 		</Key>
 		<Key ID="STR_Civ_KnockedOut">
-			<Original>%1 has knocked you out.</Original>
+			<Original>%1 le ha noqueado.</Original>
 			<German>%1 hat dich niedergeschlagen.</German>
 			<French>%1 vous a assommé.</French>
 			<Italian>%1 ti ha colpito stordendoti.</Italian>
 			<Portuguese>%1 nocauteou você.</Portuguese>
 		</Key>
 		<Key ID="STR_Civ_LicenseRemove_1">
-			<Original>You have lost all your motor vehicle licenses for vehicular manslaughter.</Original>
+			<Original>Ha perdido todas sus licencias de vehículos a motor por atropello.</Original>
 			<German>Du hast alle deine Fahrzeug-Lizenzen durch fahrlässige Tötung mit einem Fahrzeug verloren.</German>
 			<French>Vous avez perdu tout vos permis véhicule pour avoir écrasé quelqu'un.</French>
 			<Italian>Hai perso tutte le tue licenze di guida a causa di un omicidio stradale.</Italian>
 			<Portuguese>Você não perdeu suas licenças de motorista por atropelamento.</Portuguese>
 		</Key>
 		<Key ID="STR_Civ_LicenseRemove_2">
-			<Original>You have lost your firearms license for manslaughter.</Original>
+			<Original>Ha perdido su licencia de armas de fuego por homicidio.</Original>
 			<German>Du hast deinen Waffenschein wegen Mordes verloren.</German>
 			<French>Vous avez perdu votre permis d'armes à feu pour homicide involontaire.</French>
 			<Italian>Hai perso il tuo Porto d'Armi a causa di un omicidio</Italian>
 		</Key>
 		<Key ID="STR_Civ_RobFail">
-			<Original>They didn't have any cash...</Original>
+			<Original>No tienen dinero en efectivo ...</Original>
 			<German>Er hatte kein Geld...</German>
 			<French>Ils n'ont pas l'agent...</French>
 			<Italian>Non hai soldi...</Italian>
 			<Portuguese>Eles não tinham nenhum dinheiro..</Portuguese>
 		</Key>
 		<Key ID="STR_Civ_Robbed">
-			<Original>You stole $%1</Original>
+			<Original>Tú robaste €%1</Original>
 			<German>Du hast $%1 geraubt.</German>
 			<French>Vous avez volé $%1</French>
 			<Italian>Hai rubato €%1</Italian>
 			<Portuguese>Você roubou R$%1</Portuguese>
 		</Key>
 		<Key ID="STR_Civ_VaultEmpty">
-			<Original>The safe is empty!</Original>
+			<Original>La caja fuerte está vacía!</Original>
 			<German>Der Tresor ist leer!</German>
 			<French>Le coffre est vide</French>
 			<Italian>La cassaforte è vuota!</Italian>
 			<Portuguese>O Cofre está vazio!</Portuguese>
 		</Key>
 		<Key ID="STR_Civ_VaultInUse">
-			<Original>Someone is already accessing the safe..</Original>
+			<Original>Alguien ya tiene acceso a la caja fuerte ..</Original>
 			<German>Jemand greift bereits auf den Tresor zu..</German>
 			<French>Quelqu'un accède déjà au coffre..</French>
 			<Italian>Qualcuno sta già interagendo con la cassaforte..</Italian>
 			<Portuguese>Alguem já está acessando o cofre.</Portuguese>
 		</Key>
 		<Key ID="STR_Civ_NotEnoughCops">
-			<Original>There needs to be 5 or more cops online to continue.</Original>
+			<Original>Es necesario que haya 5 o más policías en línea para continuar.</Original>
 			<German>Es müssen 5 oder mehr Polizisten online sein, um fortfahren zu können.</German>
 			<French>Il faut au minimum 5 flic pour continuer</French>
 			<Italian>Servono almeno 5 poliziotti online per continuare.</Italian>
 			<Portuguese>É necessário ter pelo menos 5 Policiais online para continuar.</Portuguese>
 		</Key>
 		<Key ID="STR_Civ_SafeInv">
-			<Original>Safe Inventory</Original>
+			<Original>Inventario caja fuerte</Original>
 			<German>Tresorinventar</German>
 			<French>Coffre</French>
 			<Italian>Inventario cassaforte</Italian>
 			<Portuguese>Cofre</Portuguese>
 		</Key>
 		<Key ID="STR_Civ_SelectItem">
-			<Original>You need to select an item!</Original>
+			<Original>Es necesario seleccionar un artículo!</Original>
 			<German>Du musst einen Gegenstand auswählen!</German>
 			<French>Vous devez sélectionner un objet</French>
 			<Italian>Devi selezionare un oggetto!</Italian>
 			<Portuguese>Você precisa selecionar um item!</Portuguese>
 		</Key>
 		<Key ID="STR_Civ_IsntEnoughGold">
-			<Original>There isn't %1 gold bar(s) in the safe!</Original>
+			<Original>Hay %1 lingotes(s) en la caja fuerte!</Original>
 			<German>Es sind keine %1 Goldbarren im Tresor!</German>
 			<French>Il n'y a pas %1 lingot(s) d'or dans le coffre</French>
 			<Italian>Nella cassaforte non ci sono %1 lingotti d'oro</Italian>
 			<Portuguese>Não existem %1 barra(s) de ouro no cofre!</Portuguese>
 		</Key>
 		<Key ID="STR_Civ_GatherGun">
-			<Original>You cannot Gather while holding a weapon!</Original>
+			<Original>No se puede recolectar en posesión de un arma!</Original>
 		</Key>
 		
 	</Package>
 	<Package name="Cop_Strings">
 		<Key ID="STR_Cop_TicketError">
-			<Original>Couldn't open the ticketing interface</Original>
+			<Original>No se pudo abrir la interfaz de Multas</Original>
 			<German>Der Bußgeldkatalog konnte nicht geöffnet werden</German>
 			<French>Impossible d'ouvrir l'interface d'amendement</French>
 			<Italian>Impossibile aprire l'interfaccia per le multe</Italian>
 			<Portuguese>Não foi possível abrir o bloco de multa</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_Ticket">
-			<Original>Ticketing %1</Original>
+			<Original>Multando %1</Original>
 			<German>Verrechne %1</German>
 			<French>Mise de l'amende à %1</French>
 			<Italian>Multando %1</Italian>
 			<Portuguese>Multando %1</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_TicketNil">
-			<Original>Person to ticket is nil</Original>
+			<Original>Persona de la multa es nula</Original>
 			<German>Person für das Ticket ist nil</German>
 			<French>La personne à verbaliser est nulle</French>
 			<Italian>La persona da multare è nil</Italian>
 			<Portuguese>Jogador a ser multado é nulo</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_TicketExist">
-			<Original>Person to ticket doesn't exist.</Original>
+			<Original>Persona de la multa no existe.</Original>
 			<German>Die Person für das Ticket gibt es nicht.</German>
 			<French>La personne à verbaliser est inexistante</French>
 			<Italian>La persona da multare non esiste.</Italian>
 			<Portuguese>Jogador a ser multado não existe.</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_TicketNum">
-			<Original>You didn't enter actual number.</Original>
+			<Original>No ha introducido número valido.</Original>
 			<German>Du hast keine echte Zahl eingegeben.</German>
 			<French>Vous n'avez pas saisi de nombre.</French>
 			<Italian>Non hai inserito un numero correttamente.</Italian>
 			<Portuguese>Você não digitou um número válido</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_TicketGive">
-			<Original>%1 gave a ticket of $%2 to %3</Original>
+			<Original>%1 dio una multa de €%2 a %3</Original>
 			<German>%1 hat %3 einen Strafzettel über $%2 ausgestellt</German>
 			<French>%1 a mis une contravention de $%2 à %3</French>
 			<Italian>%1 ha dato una multa di €%2 a %3</Italian>
 			<Portuguese>%1 deu uma multa de R$%2 para %3</Portuguese>
 		</Key>	
 		<Key ID="STR_Cop_Ticket_NotEnough">
-			<Original>You don't have enough money in your bank account or on you to pay the ticket.</Original>
+			<Original>Usted no tiene suficiente dinero en su cuenta bancaria para pagar la multa.</Original>
 			<German>Du hast nicht genug Geld auf deinem Bankkonto, um den Strafzettel bezahlen zu können.</German>
 			<French>Vous n'avez pas assez d'argent dans votre compte bancaire ou sur vous pour payer l'amende.</French>
 			<Italian>Non hai fondi sufficienti nel tuo conto in banca per pagare la multa.</Italian>
 			<Portuguese>Você não tem dinheiro suficiente em sua conta bancária ou de você para pagar o bilhete.</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_Ticket_NotEnoughNOTF">
-			<Original>%1 couldn't pay the ticket due to not having enough money.</Original>
+			<Original>%1 no puede pagar la multa por no tener suficiente dinero.</Original>
 			<German>%1 konnte den Strafzettel nicht bezahlen, weil er nicht genug Geld hat.</German>
 			<French>% 1 ne pouvait pas payer la contravention car il n'avait pas assez d'argent.</French>
 			<Italian>%1 non può pagare la multa perchè non ha sufficienti fondi nel suo conto in banca.</Italian>
 			<Portuguese>%1 não pode pagar a multa pois não tem dinheiro suficiente.</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_Ticket_Paid">
-			<Original>You have paid the ticket of $%1</Original>
+			<Original>Usted ha pagado la multa de €%1</Original>
 			<German>Du hast den Strafzettel von $%1 bezahlt</German>
 			<French>Vous avez payé l'amende de $%1</French>
 			<Italian>Hai pagato la multa di €%1</Italian>
 			<Portuguese>VOcê pagou a multa de R$%1</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_Ticket_PaidNOTF">
-			<Original>%1 paid the ticket of $%2</Original>
+			<Original>%1 pago la multa de €%2</Original>
 			<German>%1 zahlte einen Strafzettel von $%2</German>
 			<French>%1 payé la contravention de $%2</French>
 			<Italian>%1 ha pagato la multa di €%2</Italian>
 			<Portuguese>%1 pagou a multa de R$%2</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_Ticket_PaidNOTF_2">
-			<Original>%1 paid the ticket.</Original>
+			<Original>%1 pago la multa.</Original>
 			<German>%1 hat den Strafzettel bezahlt.</German>
 			<French>%1 payé la contravention.</French>
 			<Italian>%1 ha pagato la multa.</Italian>
 			<Portuguese>%1 pagou a multa.</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_Ticket_GUI_Given">
-			<Original>%1 has given you a ticket for $%2</Original>
+			<Original>%1 le ha dado una multa de €%2</Original>
 			<German>%1 hat dir einen Strafzettel von $%2 gegeben</German>
 			<French>%1 vous a donné une amende de $%2</French>
 			<Italian>%1 ti ha dato una multa di €%2</Italian>
 			<Portuguese>%1 lhe aplicou uma multa de R$%2</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_Ticket_Refuse">
-			<Original>%1 refused to pay the ticket.</Original>
+			<Original>%1 se negó a pagar la multa.</Original>
 			<German>%1 weigert sich, den Strafzettel zu bezahlen.</German>
 			<French>%1 refusé de payer l'amende.</French>
 			<Italian>%1 si è rifiutato di pagare la multa.</Italian>
 			<Portuguese>%1 se recusou a pagar a multa.</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_BountyRecieve">
-			<Original>You have collected a bounty of $%1 for arresting a criminal.</Original>
+			<Original>Has recivido una recompensa de €%1 por detener a un criminal.</Original>
 			<German>Du hast ein Kopfgeld von $%1 für die Festnahme eines Kriminellen bekommen.</German>
 			<French>Vous avez reçu une prime de $%1 pour avoir arrêté un criminel.</French>
 			<Italian>Hai ricevuto il pagamento di una taglia di €%1 per aver arrestato un criminale ricercato.</Italian>
 			<Portuguese>Você conquistou uma recompensa de R$%1 por prender um criminoso.</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_BountyKill">
-			<Original>You have collected a bounty of $%1 for killing a wanted criminal, if you had arrested him you would of received $%2</Original>
+			<Original>Has recivido una recompensa de €%1 por matar a un criminal buscado, si lo hubiera detenido recibiría €%2</Original>
 			<German>Du hast ein Kopfgeld von $%1 für das Töten eines gesuchten Verbrechers erhalten, für eine Festnahme hättest du $%2 bekommen</German>
 			<French>Vous avez reçu une prime de $%1 pour le meurtre d'un criminel recherché, si vous l'aviez arrêté, vous auriez reçu $%</French>
 			<Italian>Hai ricevuto il pagamento di una taglia di €%1 per aver ucciso un criminale ricercato, se lo avessi arrestato avresti ricevuto €%2</Italian>
 			<Portuguese>Você conquistou uma recompensa de $%1 por matar um criminoso procurado, e se voçê prendeu esse suspeito voçê receberá R$%2</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_Contraband">
-			<Original>%1 has $%2 worth of contraband on them.</Original>
+			<Original>%1 tiene €%2 de valor en contrabando.</Original>
 			<German>%1 hat Schmuggelware im Wert von $%2 bei sich.</German>
 			<French>%1 a $%2 de contrebande sur lui.</French>
 			<Italian>%1 ha €%2 in materiali illegali con se.</Italian>
 			<Portuguese>%1 tem R$%1 em contrabando.</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_IllegalItems">
-			<Original>Illegal Items</Original>
+			<Original>Objetos Ilegales</Original>
 			<German>Illegale Gegenstände</German>
 			<French>Articles illégaux</French>
 			<Italian>Oggetti Illegali</Italian>
 			<Portuguese>Items Ilegais</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_Robber">
-			<Original>%1 was identified as the bank robber!</Original>
+			<Original>%1 se identificó como el ladrón del banco!</Original>
 			<German>%1 wurde als Bankräuber identifiziert!</German>
 			<French>%1 à été identifié comme un braqueur de banque!</French>
 			<Italian>%1 è stato identificato come il rapinatore della banca!</Italian>
 			<Portuguese>%1 foi identificado como ladrão de banco!</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_NoIllegal">
-			<Original>No illegal items</Original>
+			<Original>Ningún objeto ilegal</Original>
 			<German>Keine illegalen Gegenstände</German>
 			<French>Aucun élément illégal</French>
 			<Italian>Nessun oggetto illegale</Italian>
 			<Portuguese>Sem items ilegais</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_NotaDoor">
-			<Original>You are not near a door!</Original>
+			<Original>No está cerca de una puerta!</Original>
 			<German>Du bist nicht in der Nähe einer Tür!</German>
 			<French>Vous n'êtes pas près d'une porte!</French>
 			<Italian>Non sei vicno ad una porta!</Italian>
 			<Portuguese>Você não está perto de uma porta!</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_EnablePiP">
-			<Original>You need to enable Picture in Picture (PiP) through your video settings to use this!</Original>
+			<Original>Necesita habilitar imagen en imagen (PiP) a través de la configuración de vídeo para utilizarlo!</Original>
 			<German>Du musst Picture in Picture (PiP) in deinen Video-Einstellungen aktivieren, um dies nutzen zu können!</German>
 			<French>Vous devez activer le "Picture in Picture" (PiP) dans vos paramètre vidéo pour utilser ceci!</French>
 			<Italian>Devi attivare Picture in Picture (PiP) nelle tue impostazioni video per usare questa funzione!</Italian>
 			<Portuguese>Você precisa habilitar o Picture in Picture (PiP), através de suas configurações de vídeo para usar esta opção!</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_Licenses">
-			<Original>Licenses:</Original>
+			<Original>Licencias:</Original>
 			<German>Lizenzen:</German>
 			<French>Licences:</French>
 			<Italian>Licenze:</Italian>
 			<Portuguese>Licenças:</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_NoLicenses">
-			<Original>No Licenses</Original>
+			<Original>Sin Licencia</Original>
 			<German>Keine Lizenzen</German>
 			<French>Aucune licence</French>
 			<Italian>Nessuna Licenza</Italian>
 			<Portuguese>Sem Licenças</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_NoIllegalVeh">
-			<Original>Nothing illegal in this vehicle</Original>
+			<Original>No hay nada ilegal en este vehículo</Original>
 			<German>Nichts Illegales in diesem Fahrzeug</German>
 			<French>Rien d'illégal dans ce véhicule</French>
 			<Italian>Niente di illegale nel veicolo</Italian>
 			<Portuguese>Nada ilegal dentro do veículo</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_VehEmpty">
-			<Original>This vehicle is empty</Original>
+			<Original>Este vehículo está vacía</Original>
 			<German>Dieses Fahrzeug ist leer</German>
 			<French>Ce véhicule est vide</French>
 			<Italian>Questo veicolo è vuoto</Italian>
 			<Portuguese>Esse veículo está vazio</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_RobberDead">
-			<Original>$%1 from the Federal Reserve robbery was returned from the robber being killed.</Original>
+			<Original>€%1 fue robado de lña Reserva Federal, fue devuelto a ella despues de morir el ladrón.</Original>
 			<German>$%1 wurden in die Staatsbank zurückgebracht.</German>
 			<French>$%1 du vol de la Réserve fédérale est récupéré du voleur qui vient d'être tué.</French>
 			<Italian>€%1 della rapina alla Riserva Federale sono stati recuperati dal rapinatore ucciso.</Italian>
 			<Portuguese>R$%1 que foi roubado da Reserva Federal foi retornado a ela após a morte do ladrão.</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_RepairVault">
-			<Original>Repairing vault...</Original>
+			<Original>Reparando caja fuerte...</Original>
 			<German>Tresor wird repariert...</German>
 			<French>Réparation du coffre...</French>
 			<Italian>Riparando il Caveau</Italian>
 			<Portuguese>Reparando Cofre...</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_VaultRepaired">
-			<Original>The vault is now fixed and re-secured.</Original>
+			<Original>La caja fuerte se reparó y es segura.</Original>
 			<German>Der Tresor wurde repariert.</German>
 			<French>Le coffre est de nouveau sécurisé.</French>
-			<Italian>Il Caveau è stato riparato e messo in sicurezza.</Italian>
+			<Italian>La caja fuerte se reparó y es segura.</Italian>
 			<Portuguese>O Cofre foi consertado e está seguro.</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_VaultLocked">
-			<Original>The vault is already locked?</Original>
+			<Original>La caja fuerte ya está bloqueada?</Original>
 			<German>Der Tresor ist abgeschlossen?</German>
 			<French>Le coffre est déjà fermé?</French>
 			<Italian>Il Caveau è già bloccato?</Italian>
 			<Portuguese>O Cofre está trancado?</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_VaultUnder1">
-			<Original>You can't enter anything below 1!</Original>
+			<Original>No se puede introducir nada por debajo de 1!</Original>
 			<German>Du kannst nichts unter 1 eingeben!</German>
 			<French>Vous ne pouvez pas moins de 1!</French>
 			<Italian>Non puoi selezionare nulla sotto l'1!</Italian>
@@ -2506,56 +2506,56 @@
 		</Key>
 		
 		<Key ID="STR_Cop_OnlyGold">
-			<Original>You can't store anything but gold bars in the safe.</Original>
+			<Original>No se puede almacenar cualquier cosa, menos lingotes de oro en la caja fuerte.</Original>
 			<German>Du kannst nur Goldbarren in den Tresor legen.</German>
 			<French>Vous ne pouvez pas mettre autre chose que des lingot d'or.</French>
 			<Italian>Nella cassaforte puoi depositare solo lingotti d'oro.</Italian>
 			<Portuguese>Você só pode guardar Barras de Ouro no cofre.</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_NotEnoughGold">
-			<Original>You don't have %1 gold bar(s)</Original>
+			<Original>Usted no tiene %1 lingotes de oro(s)</Original>
 			<German>Du hast keine %1 Goldbarren</German>
 			<French>Vous n'avez pas %1 lingot(s) d'or</French>
 			<Italian>Non hai %1 lingotti d'oro</Italian>
 			<Portuguese>Você não tem %1 Barra(s) de Ouro</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_CantRemove">
-			<Original>Couldn't remove the item(s) from your inventory to put in the safe.</Original>
+			<Original>No se pudo eliminar el objeto(s) de su inventario para poner en la caja fuerte.</Original>
 			<German>Gegenstände konnten nicht von deinem Inventar in den Tresor gepackt werden.</German>
 			<French>Vous ne pouvez pas supprimer les items de votre inventaire pour les mettre dans le coffre.</French>
 			<Italian>Non è stato possibile rimuovere gli oggetti dal tuo inventario per metterli nella cassaforte.</Italian>
 			<Portuguese>Não foi possível mover o item do invetário para o cofre.</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_CouldntSearch">
-			<Original>Couldn't search %1</Original>
+			<Original>No se pudo buscar %1</Original>
 			<German>Konnte %1 nicht durchsuchen</German>
 			<French>Impossible de fouiller %1</French>
 			<Italian>Impossibile ispezionare %1</Italian>
 			<Portuguese>Não foi possível buscar por %1</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_RepairingDoor">
-			<Original>Repairing Door...</Original>
+			<Original>Reparando Puerta...</Original>
 			<German>Tür wird repariert...</German>
 			<French>Réparation de la porte...</French>
 			<Italian>Riparando la porta...</Italian>
 			<Portuguese>Reparando a porta....</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_NoLicensesFound">
-			<Original>No Licenses&lt;br/&gt;</Original>
+			<Original>Sin Licencias&lt;br/&gt;</Original>
 			<German>Keine Lizenzen&lt;br/&gt;</German>
 			<French>Aucune licence&lt;br/&gt;</French>
 			<Italian>Nessuna Licenza&lt;br/&gt;</Italian>
 			<Portuguese>Você não tem licença&lt;br/&gt;</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_DealerQuestion">
-			<Original>No one has sold to this dealer recently.</Original>
+			<Original>Nadie ha vendido a este cliente recientemente.</Original>
 			<German>Niemand hat hier kürzlich etwas verkauft.</German>
 			<French>Personne n'est venu vendre à ce dealer récement</French>
 			<Italian>Non è stato visto nessuno vendere a questo spacciatore di recente.</Italian>
 			<Portuguese>Ninguém vendeu para esse negociante recentemente</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_DealerMSG">
-			<Original>The following people have been selling to this dealer recently.</Original>
+			<Original>Las siguientes personas han estado vendiendo a este cliente recientemente.</Original>
 			<German>Die folgenden Leute haben kürzlich an diesen Dealer verkauft.</German>
 			<French>Les personnes suivantes sont venues vendre à ce dealer récement.</French>
 			<Italian>Le seguenti persone sono state viste vendere a questo spacciatore.</Italian>
@@ -2569,46 +2569,46 @@
 			<Portuguese>Radar</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_VehSpeed">
-			<Original>Vehicle Speed %1 km/h</Original>
+			<Original>Velocidad del Vehiculo %1 km/h</Original>
 			<German>Geschwindigkeit %1 km/h</German>
 			<French>Vitesse du véhicule %1 km/h</French>
 			<Italian>Velocità veicolo %1 km/h</Italian>
 			<Portuguese>Velocidade do Veículo %1 km/h</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_ExcessiveRestrain">
-			<Original>You have been released automatically for excessive restrainment time</Original>
+			<Original>Fue liberado automaticamente, debido a la expiración del límite de tiempo</Original>
 			<German>Du wurdest automatisch freigelassen, da die maximale Verhaftungszeit überschritten wurde</German>
 			<French>Vous êtes démenotté automatiquement pour un menottage excessivement long</French>
 			<Italian>Sei stato automaticamente liberato per essere rimasto ammanettato troppo tempo</Italian>
 			<Portuguese>Você foi solto automaticamente, devido ao tempo limite ter expirado.</Portuguese>
 		</Key>
 		<Key ID="STR_Cop_Retrained">
-			<Original>You have been restrained by %1</Original>
+			<Original>Fue detenido por %1</Original>
 			<German>Du wurdest von %1 festgenommen</German>
 			<French>Vous avez été menotté par %1</French>
 			<Italian>%1 ti ha tolto le manette</Italian>
 			<Portuguese>Você foi solto por %1</Portuguese>
 		</Key>
 		<Key ID="STR_pAct_DriverSeat">
-			<Original>driver's seat</Original>
+			<Original>asiento del conductor</Original>
 			<English>driver's seat</English>
 			<German>Auf den Fahrersitz</German>
 			<French>Place conducteur</French>
 		</Key>
 		<Key ID="STR_pAct_PassengerSeat">
-			<Original>passenger seat</Original>
+			<Original>asiento del pasajero</Original>
 			<English>passenger seat</English>
 			<German>Auf den Passagiersitz</German>
 			<French>Place passager</French>
 		</Key>
 		<Key ID="STR_pAct_GunnerSeat">
-			<Original>gunner seat</Original>
+			<Original>asiento del artillero</Original>
 			<English>gunner seat</English>
 			<German>gunner seat</German>
 			<French>Place tireur</French>
 		</Key>
 		<Key ID="STR_pAct_GoOut">
-			<Original>Go out of vehicle</Original>
+			<Original>Salir del vehículo</Original>
 			<English>Go out of vehicle</English>
 			<German>Aus dem Fahrzeug austeigen</German>
 			<French>Sortir du véhicule</French>
@@ -2616,38 +2616,38 @@
 	</Package>
 	<Package name="MISC_Strings">
 		<Key ID="STR_MISC_StPubIntox">
-			<Original>%1 has passed out drunk in public!</Original>
+			<Original>%1 ha sido visto borracho en público!</Original>
 			<English>%1 has passed out drunk in public!</English>
 			<German>%1 hat sich betrunken im öffentlichen bestanden!</German>
 		</Key>
 		<Key ID="STR_MISC_AlreadyDrinking">
-			<Original>You are already drinking some booze</Original>
+			<Original>Está bebiendo un poco de alcohol</Original>
 			<English>You are already drinking some booze</English>
 			<German>Du bist schon etwas trinken Alkohol</German>
 		</Key>
 		<Key ID="STR_MISC_WestIndNoNo">
-			<Original>No drinking on duty</Original>
+			<Original>No beber de servicio</Original>
 			<English>No drinking on duty</English>
 			<German>Kein Trinkwasser im Dienst</German>
 			<French>Pas boire pendant le travail</French>
 		</Key>
 		<Key ID="STR_MISC_DrunkBlackOut">
-			<Original>You have passed out</Original>
+			<Original>Has pasado a cabo</Original>
 			<English>You have passed out</English>
 		</Key>
 		<Key ID="STR_MISC_DrunkBlackOut1">
-			<Original>What the hell happened to me??</Original>
+			<Original>Qué diablos me pasó??</Original>
 			<English>What the hell happened to me??</English>
 		</Key>
 		<Key ID="STR_MISC_TooMuch">
-			<Original>You tried to give %1 %2 %3 but they couldn't hold that so it was returned.</Original>
+			<Original>Ha intentado dar %1 %2 %3, pero no pudieron mantener así que fue devuelto.</Original>
 			<German>Du wolltest %1 %2 %3 geben, aber er hat keinen Platz in seinem Inventar und hat es darum zurückgegeben.</German>
 			<French>Vous avez essayé de donner %1 %2 %3 mais il n'a pas assez de place et vous à tout redonné.</French>
 			<Italian>Hai provato a dare %1 %2 %3 ma non poteva trasportarlo quindi ti è stato restituito.</Italian>
 			<Portuguese>Você tentou dar %1 %2 %3, mas não conseguiu segurar e por isso que foi devolvido.</Portuguese>
 		</Key>
 		<Key ID="STR_MISC_TooMuch_2">
-			<Original>%1 returned %2 %3 because they couldn't hold that amount.</Original>
+			<Original>%1 devolvio %2 %3 porque no podían mantener esa cantidad.</Original>
 			<German>%1 hat %2 %3 zurückgegeben, weil er nicht so viel tragen kann.</German>
 			<French>%1 vous à redonné %2 %3 parce qu'ils ne pouvaient pas en tenir autant.</French>
 			<Italian>%1 ha restituito %2 %3 perchè non poteva trasportare quella quantità</Italian>
